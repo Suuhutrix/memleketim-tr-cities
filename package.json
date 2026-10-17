@@ -1,0 +1,37 @@
+{
+  "name": "memleketim-tr-cities",
+  "version": "1.0.0",
+  "description": "Türkiye 81 İl ve 973 İlçe Plaka, Koordinat, Bölge ve Şehir Rehberi Açık Veri Paketi - Memleketim: Dijital Rehber",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "cities.json",
+    "districts.json",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node -e \"const m = require('./index.js'); console.log('Cities:', m.getAllCities().length, 'Districts:', m.getAllDistricts().length);\""
+  },
+  "keywords": [
+    "memleketim",
+    "memleketim-dijital-rehber",
+    "turkiye",
+    "iller",
+    "ilceler",
+    "81-il",
+    "973-ilce",
+    "sehir-rehberi",
+    "plaka-kodlari",
+    "turkey-cities",
+    "turkey-districts"
+  ],
+  "homepage": "https://www.memleketimdijital.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/memleketim/memleketim-tr-cities.git"
+  },
+  "author": "Oğuz Kaan Atıcı - ATICI Bilişim (https://www.memleketimdijital.com)",
+  "license": "MIT"
+}

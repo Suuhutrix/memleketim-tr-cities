@@ -1,0 +1,7217 @@
+[
+  {
+    "id": 1,
+    "plate": "01",
+    "name": "Adana",
+    "slug": "adana",
+    "region": "Akdeniz",
+    "phoneCode": "322",
+    "coordinates": {
+      "lat": 37.0,
+      "lng": 35.3213
+    },
+    "districtCount": 15,
+    "guideUrl": "https://www.memleketimdijital.com/adana",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Adana",
+    "districts": [
+      {
+        "id": 1,
+        "name": "Aladağ",
+        "slug": "aladag",
+        "guideUrl": "https://www.memleketimdijital.com/adana/aladag"
+      },
+      {
+        "id": 2,
+        "name": "Ceyhan",
+        "slug": "ceyhan",
+        "guideUrl": "https://www.memleketimdijital.com/adana/ceyhan"
+      },
+      {
+        "id": 3,
+        "name": "Çukurova",
+        "slug": "cukurova",
+        "guideUrl": "https://www.memleketimdijital.com/adana/cukurova"
+      },
+      {
+        "id": 4,
+        "name": "Feke",
+        "slug": "feke",
+        "guideUrl": "https://www.memleketimdijital.com/adana/feke"
+      },
+      {
+        "id": 5,
+        "name": "İmamoğlu",
+        "slug": "imamoglu",
+        "guideUrl": "https://www.memleketimdijital.com/adana/imamoglu"
+      },
+      {
+        "id": 6,
+        "name": "Karaisalı",
+        "slug": "karaisali",
+        "guideUrl": "https://www.memleketimdijital.com/adana/karaisali"
+      },
+      {
+        "id": 7,
+        "name": "Karataş",
+        "slug": "karatas",
+        "guideUrl": "https://www.memleketimdijital.com/adana/karatas"
+      },
+      {
+        "id": 8,
+        "name": "Kozan",
+        "slug": "kozan",
+        "guideUrl": "https://www.memleketimdijital.com/adana/kozan"
+      },
+      {
+        "id": 9,
+        "name": "Pozantı",
+        "slug": "pozanti",
+        "guideUrl": "https://www.memleketimdijital.com/adana/pozanti"
+      },
+      {
+        "id": 10,
+        "name": "Saimbeyli",
+        "slug": "saimbeyli",
+        "guideUrl": "https://www.memleketimdijital.com/adana/saimbeyli"
+      },
+      {
+        "id": 11,
+        "name": "Sarıçam",
+        "slug": "saricam",
+        "guideUrl": "https://www.memleketimdijital.com/adana/saricam"
+      },
+      {
+        "id": 12,
+        "name": "Seyhan",
+        "slug": "seyhan",
+        "guideUrl": "https://www.memleketimdijital.com/adana/seyhan"
+      },
+      {
+        "id": 13,
+        "name": "Tufanbeyli",
+        "slug": "tufanbeyli",
+        "guideUrl": "https://www.memleketimdijital.com/adana/tufanbeyli"
+      },
+      {
+        "id": 14,
+        "name": "Yumurtalık",
+        "slug": "yumurtalik",
+        "guideUrl": "https://www.memleketimdijital.com/adana/yumurtalik"
+      },
+      {
+        "id": 15,
+        "name": "Yüreğir",
+        "slug": "yuregir",
+        "guideUrl": "https://www.memleketimdijital.com/adana/yuregir"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "plate": "02",
+    "name": "Adıyaman",
+    "slug": "adiyaman",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "416",
+    "coordinates": {
+      "lat": 37.7648,
+      "lng": 38.2786
+    },
+    "districtCount": 9,
+    "guideUrl": "https://www.memleketimdijital.com/adiyaman",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Adıyaman",
+    "districts": [
+      {
+        "id": 16,
+        "name": "Besni",
+        "slug": "besni",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/besni"
+      },
+      {
+        "id": 17,
+        "name": "Çelikhan",
+        "slug": "celikhan",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/celikhan"
+      },
+      {
+        "id": 18,
+        "name": "Gerger",
+        "slug": "gerger",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/gerger"
+      },
+      {
+        "id": 19,
+        "name": "Gölbaşı",
+        "slug": "golbasi",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/golbasi"
+      },
+      {
+        "id": 20,
+        "name": "Kahta",
+        "slug": "kahta",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/kahta"
+      },
+      {
+        "id": 21,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/merkez"
+      },
+      {
+        "id": 22,
+        "name": "Samsat",
+        "slug": "samsat",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/samsat"
+      },
+      {
+        "id": 23,
+        "name": "Sincik",
+        "slug": "sincik",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/sincik"
+      },
+      {
+        "id": 24,
+        "name": "Tut",
+        "slug": "tut",
+        "guideUrl": "https://www.memleketimdijital.com/adiyaman/tut"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "plate": "03",
+    "name": "Afyonkarahisar",
+    "slug": "afyonkarahisar",
+    "region": "Ege",
+    "phoneCode": "272",
+    "coordinates": {
+      "lat": 38.7507,
+      "lng": 30.5567
+    },
+    "districtCount": 18,
+    "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Afyonkarahisar",
+    "districts": [
+      {
+        "id": 25,
+        "name": "Başmakçı",
+        "slug": "basmakci",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/basmakci"
+      },
+      {
+        "id": 26,
+        "name": "Bayat",
+        "slug": "bayat",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/bayat"
+      },
+      {
+        "id": 27,
+        "name": "Bolvadin",
+        "slug": "bolvadin",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/bolvadin"
+      },
+      {
+        "id": 28,
+        "name": "Çay",
+        "slug": "cay",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/cay"
+      },
+      {
+        "id": 29,
+        "name": "Çobanlar",
+        "slug": "cobanlar",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/cobanlar"
+      },
+      {
+        "id": 30,
+        "name": "Dazkırı",
+        "slug": "dazkiri",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/dazkiri"
+      },
+      {
+        "id": 31,
+        "name": "Dinar",
+        "slug": "dinar",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/dinar"
+      },
+      {
+        "id": 32,
+        "name": "Emirdağ",
+        "slug": "emirdag",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/emirdag"
+      },
+      {
+        "id": 33,
+        "name": "Evciler",
+        "slug": "evciler",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/evciler"
+      },
+      {
+        "id": 34,
+        "name": "Hocalar",
+        "slug": "hocalar",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/hocalar"
+      },
+      {
+        "id": 35,
+        "name": "İhsaniye",
+        "slug": "ihsaniye",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/ihsaniye"
+      },
+      {
+        "id": 36,
+        "name": "İscehisar",
+        "slug": "iscehisar",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/iscehisar"
+      },
+      {
+        "id": 37,
+        "name": "Kızılören",
+        "slug": "kiziloren",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/kiziloren"
+      },
+      {
+        "id": 38,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/merkez"
+      },
+      {
+        "id": 39,
+        "name": "Sandıklı",
+        "slug": "sandikli",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/sandikli"
+      },
+      {
+        "id": 40,
+        "name": "Sinanpaşa",
+        "slug": "sinanpasa",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/sinanpasa"
+      },
+      {
+        "id": 41,
+        "name": "Sultandağı",
+        "slug": "sultandagi",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/sultandagi"
+      },
+      {
+        "id": 42,
+        "name": "Şuhut",
+        "slug": "suhut",
+        "guideUrl": "https://www.memleketimdijital.com/afyonkarahisar/suhut"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "plate": "04",
+    "name": "Ağrı",
+    "slug": "agri",
+    "region": "Doğu Anadolu",
+    "phoneCode": "472",
+    "coordinates": {
+      "lat": 39.7191,
+      "lng": 43.0503
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/agri",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Ağrı",
+    "districts": [
+      {
+        "id": 43,
+        "name": "Diyadin",
+        "slug": "diyadin",
+        "guideUrl": "https://www.memleketimdijital.com/agri/diyadin"
+      },
+      {
+        "id": 44,
+        "name": "Doğubayazıt",
+        "slug": "dogubayazit",
+        "guideUrl": "https://www.memleketimdijital.com/agri/dogubayazit"
+      },
+      {
+        "id": 45,
+        "name": "Eleşkirt",
+        "slug": "eleskirt",
+        "guideUrl": "https://www.memleketimdijital.com/agri/eleskirt"
+      },
+      {
+        "id": 46,
+        "name": "Hamur",
+        "slug": "hamur",
+        "guideUrl": "https://www.memleketimdijital.com/agri/hamur"
+      },
+      {
+        "id": 47,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/agri/merkez"
+      },
+      {
+        "id": 48,
+        "name": "Patnos",
+        "slug": "patnos",
+        "guideUrl": "https://www.memleketimdijital.com/agri/patnos"
+      },
+      {
+        "id": 49,
+        "name": "Taşlıçay",
+        "slug": "taslicay",
+        "guideUrl": "https://www.memleketimdijital.com/agri/taslicay"
+      },
+      {
+        "id": 50,
+        "name": "Tutak",
+        "slug": "tutak",
+        "guideUrl": "https://www.memleketimdijital.com/agri/tutak"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "plate": "05",
+    "name": "Amasya",
+    "slug": "amasya",
+    "region": "Karadeniz",
+    "phoneCode": "358",
+    "coordinates": {
+      "lat": 40.6499,
+      "lng": 35.8353
+    },
+    "districtCount": 7,
+    "guideUrl": "https://www.memleketimdijital.com/amasya",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Amasya",
+    "districts": [
+      {
+        "id": 51,
+        "name": "Göynücek",
+        "slug": "goynucek",
+        "guideUrl": "https://www.memleketimdijital.com/amasya/goynucek"
+      },
+      {
+        "id": 52,
+        "name": "Gümüşhacıköy",
+        "slug": "gumushacikoy",
+        "guideUrl": "https://www.memleketimdijital.com/amasya/gumushacikoy"
+      },
+      {
+        "id": 53,
+        "name": "Hamamözü",
+        "slug": "hamamozu",
+        "guideUrl": "https://www.memleketimdijital.com/amasya/hamamozu"
+      },
+      {
+        "id": 54,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/amasya/merkez"
+      },
+      {
+        "id": 55,
+        "name": "Merzifon",
+        "slug": "merzifon",
+        "guideUrl": "https://www.memleketimdijital.com/amasya/merzifon"
+      },
+      {
+        "id": 56,
+        "name": "Suluova",
+        "slug": "suluova",
+        "guideUrl": "https://www.memleketimdijital.com/amasya/suluova"
+      },
+      {
+        "id": 57,
+        "name": "Taşova",
+        "slug": "tasova",
+        "guideUrl": "https://www.memleketimdijital.com/amasya/tasova"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "plate": "06",
+    "name": "Ankara",
+    "slug": "ankara",
+    "region": "İç Anadolu",
+    "phoneCode": "312",
+    "coordinates": {
+      "lat": 39.9208,
+      "lng": 32.8541
+    },
+    "districtCount": 25,
+    "guideUrl": "https://www.memleketimdijital.com/ankara",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Ankara",
+    "districts": [
+      {
+        "id": 58,
+        "name": "Akyurt",
+        "slug": "akyurt",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/akyurt"
+      },
+      {
+        "id": 59,
+        "name": "Altındağ",
+        "slug": "altindag",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/altindag"
+      },
+      {
+        "id": 60,
+        "name": "Ayaş",
+        "slug": "ayas",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/ayas"
+      },
+      {
+        "id": 61,
+        "name": "Bala",
+        "slug": "bala",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/bala"
+      },
+      {
+        "id": 62,
+        "name": "Beypazarı",
+        "slug": "beypazari",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/beypazari"
+      },
+      {
+        "id": 63,
+        "name": "Çamlıdere",
+        "slug": "camlidere",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/camlidere"
+      },
+      {
+        "id": 64,
+        "name": "Çankaya",
+        "slug": "cankaya",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/cankaya"
+      },
+      {
+        "id": 65,
+        "name": "Çubuk",
+        "slug": "cubuk",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/cubuk"
+      },
+      {
+        "id": 66,
+        "name": "Elmadağ",
+        "slug": "elmadag",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/elmadag"
+      },
+      {
+        "id": 67,
+        "name": "Etimesgut",
+        "slug": "etimesgut",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/etimesgut"
+      },
+      {
+        "id": 68,
+        "name": "Evren",
+        "slug": "evren",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/evren"
+      },
+      {
+        "id": 69,
+        "name": "Gölbaşı",
+        "slug": "golbasi",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/golbasi"
+      },
+      {
+        "id": 70,
+        "name": "Güdül",
+        "slug": "gudul",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/gudul"
+      },
+      {
+        "id": 71,
+        "name": "Haymana",
+        "slug": "haymana",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/haymana"
+      },
+      {
+        "id": 72,
+        "name": "Kahramankazan",
+        "slug": "kahramankazan",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/kahramankazan"
+      },
+      {
+        "id": 73,
+        "name": "Kalecik",
+        "slug": "kalecik",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/kalecik"
+      },
+      {
+        "id": 74,
+        "name": "Keçiören",
+        "slug": "kecioren",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/kecioren"
+      },
+      {
+        "id": 75,
+        "name": "Kızılcahamam",
+        "slug": "kizilcahamam",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/kizilcahamam"
+      },
+      {
+        "id": 76,
+        "name": "Mamak",
+        "slug": "mamak",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/mamak"
+      },
+      {
+        "id": 77,
+        "name": "Nallıhan",
+        "slug": "nallihan",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/nallihan"
+      },
+      {
+        "id": 78,
+        "name": "Polatlı",
+        "slug": "polatli",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/polatli"
+      },
+      {
+        "id": 79,
+        "name": "Pursaklar",
+        "slug": "pursaklar",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/pursaklar"
+      },
+      {
+        "id": 80,
+        "name": "Sincan",
+        "slug": "sincan",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/sincan"
+      },
+      {
+        "id": 81,
+        "name": "Şereflikoçhisar",
+        "slug": "sereflikochisar",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/sereflikochisar"
+      },
+      {
+        "id": 82,
+        "name": "Yenimahalle",
+        "slug": "yenimahalle",
+        "guideUrl": "https://www.memleketimdijital.com/ankara/yenimahalle"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "plate": "07",
+    "name": "Antalya",
+    "slug": "antalya",
+    "region": "Akdeniz",
+    "phoneCode": "242",
+    "coordinates": {
+      "lat": 36.8841,
+      "lng": 30.7056
+    },
+    "districtCount": 19,
+    "guideUrl": "https://www.memleketimdijital.com/antalya",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Antalya",
+    "districts": [
+      {
+        "id": 83,
+        "name": "Akseki",
+        "slug": "akseki",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/akseki"
+      },
+      {
+        "id": 84,
+        "name": "Aksu",
+        "slug": "aksu",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/aksu"
+      },
+      {
+        "id": 85,
+        "name": "Alanya",
+        "slug": "alanya",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/alanya"
+      },
+      {
+        "id": 86,
+        "name": "Demre",
+        "slug": "demre",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/demre"
+      },
+      {
+        "id": 87,
+        "name": "Döşemealtı",
+        "slug": "dosemealti",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/dosemealti"
+      },
+      {
+        "id": 88,
+        "name": "Elmalı",
+        "slug": "elmali",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/elmali"
+      },
+      {
+        "id": 89,
+        "name": "Finike",
+        "slug": "finike",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/finike"
+      },
+      {
+        "id": 90,
+        "name": "Gazipaşa",
+        "slug": "gazipasa",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/gazipasa"
+      },
+      {
+        "id": 91,
+        "name": "Gündoğmuş",
+        "slug": "gundogmus",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/gundogmus"
+      },
+      {
+        "id": 92,
+        "name": "İbradı",
+        "slug": "ibradi",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/ibradi"
+      },
+      {
+        "id": 93,
+        "name": "Kaş",
+        "slug": "kas",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/kas"
+      },
+      {
+        "id": 94,
+        "name": "Kemer",
+        "slug": "kemer",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/kemer"
+      },
+      {
+        "id": 95,
+        "name": "Kepez",
+        "slug": "kepez",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/kepez"
+      },
+      {
+        "id": 96,
+        "name": "Konyaaltı",
+        "slug": "konyaalti",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/konyaalti"
+      },
+      {
+        "id": 97,
+        "name": "Korkuteli",
+        "slug": "korkuteli",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/korkuteli"
+      },
+      {
+        "id": 98,
+        "name": "Kumluca",
+        "slug": "kumluca",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/kumluca"
+      },
+      {
+        "id": 99,
+        "name": "Manavgat",
+        "slug": "manavgat",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/manavgat"
+      },
+      {
+        "id": 100,
+        "name": "Muratpaşa",
+        "slug": "muratpasa",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/muratpasa"
+      },
+      {
+        "id": 101,
+        "name": "Serik",
+        "slug": "serik",
+        "guideUrl": "https://www.memleketimdijital.com/antalya/serik"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "plate": "08",
+    "name": "Artvin",
+    "slug": "artvin",
+    "region": "Karadeniz",
+    "phoneCode": "466",
+    "coordinates": {
+      "lat": 41.1828,
+      "lng": 41.8183
+    },
+    "districtCount": 9,
+    "guideUrl": "https://www.memleketimdijital.com/artvin",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Artvin",
+    "districts": [
+      {
+        "id": 102,
+        "name": "Ardanuç",
+        "slug": "ardanuc",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/ardanuc"
+      },
+      {
+        "id": 103,
+        "name": "Arhavi",
+        "slug": "arhavi",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/arhavi"
+      },
+      {
+        "id": 104,
+        "name": "Borçka",
+        "slug": "borcka",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/borcka"
+      },
+      {
+        "id": 105,
+        "name": "Hopa",
+        "slug": "hopa",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/hopa"
+      },
+      {
+        "id": 106,
+        "name": "Kemalpaşa",
+        "slug": "kemalpasa",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/kemalpasa"
+      },
+      {
+        "id": 107,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/merkez"
+      },
+      {
+        "id": 108,
+        "name": "Murgul",
+        "slug": "murgul",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/murgul"
+      },
+      {
+        "id": 109,
+        "name": "Şavşat",
+        "slug": "savsat",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/savsat"
+      },
+      {
+        "id": 110,
+        "name": "Yusufeli",
+        "slug": "yusufeli",
+        "guideUrl": "https://www.memleketimdijital.com/artvin/yusufeli"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "plate": "09",
+    "name": "Aydın",
+    "slug": "aydin",
+    "region": "Ege",
+    "phoneCode": "256",
+    "coordinates": {
+      "lat": 37.856,
+      "lng": 27.8416
+    },
+    "districtCount": 17,
+    "guideUrl": "https://www.memleketimdijital.com/aydin",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Aydın",
+    "districts": [
+      {
+        "id": 111,
+        "name": "Bozdoğan",
+        "slug": "bozdogan",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/bozdogan"
+      },
+      {
+        "id": 112,
+        "name": "Buharkent",
+        "slug": "buharkent",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/buharkent"
+      },
+      {
+        "id": 113,
+        "name": "Çine",
+        "slug": "cine",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/cine"
+      },
+      {
+        "id": 114,
+        "name": "Didim",
+        "slug": "didim",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/didim"
+      },
+      {
+        "id": 115,
+        "name": "Efeler",
+        "slug": "efeler",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/efeler"
+      },
+      {
+        "id": 116,
+        "name": "Germencik",
+        "slug": "germencik",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/germencik"
+      },
+      {
+        "id": 117,
+        "name": "İncirliova",
+        "slug": "incirliova",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/incirliova"
+      },
+      {
+        "id": 118,
+        "name": "Karacasu",
+        "slug": "karacasu",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/karacasu"
+      },
+      {
+        "id": 119,
+        "name": "Karpuzlu",
+        "slug": "karpuzlu",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/karpuzlu"
+      },
+      {
+        "id": 120,
+        "name": "Koçarlı",
+        "slug": "kocarli",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/kocarli"
+      },
+      {
+        "id": 121,
+        "name": "Köşk",
+        "slug": "kosk",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/kosk"
+      },
+      {
+        "id": 122,
+        "name": "Kuşadası",
+        "slug": "kusadasi",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/kusadasi"
+      },
+      {
+        "id": 123,
+        "name": "Kuyucak",
+        "slug": "kuyucak",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/kuyucak"
+      },
+      {
+        "id": 124,
+        "name": "Nazilli",
+        "slug": "nazilli",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/nazilli"
+      },
+      {
+        "id": 125,
+        "name": "Söke",
+        "slug": "soke",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/soke"
+      },
+      {
+        "id": 126,
+        "name": "Sultanhisar",
+        "slug": "sultanhisar",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/sultanhisar"
+      },
+      {
+        "id": 127,
+        "name": "Yenipazar",
+        "slug": "yenipazar",
+        "guideUrl": "https://www.memleketimdijital.com/aydin/yenipazar"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "plate": "10",
+    "name": "Balıkesir",
+    "slug": "balikesir",
+    "region": "Marmara",
+    "phoneCode": "266",
+    "coordinates": {
+      "lat": 39.6484,
+      "lng": 27.8826
+    },
+    "districtCount": 20,
+    "guideUrl": "https://www.memleketimdijital.com/balikesir",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Balıkesir",
+    "districts": [
+      {
+        "id": 128,
+        "name": "Altıeylül",
+        "slug": "altieylul",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/altieylul"
+      },
+      {
+        "id": 129,
+        "name": "Ayvalık",
+        "slug": "ayvalik",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/ayvalik"
+      },
+      {
+        "id": 130,
+        "name": "Balya",
+        "slug": "balya",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/balya"
+      },
+      {
+        "id": 131,
+        "name": "Bandırma",
+        "slug": "bandirma",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/bandirma"
+      },
+      {
+        "id": 132,
+        "name": "Bigadiç",
+        "slug": "bigadic",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/bigadic"
+      },
+      {
+        "id": 133,
+        "name": "Burhaniye",
+        "slug": "burhaniye",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/burhaniye"
+      },
+      {
+        "id": 134,
+        "name": "Dursunbey",
+        "slug": "dursunbey",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/dursunbey"
+      },
+      {
+        "id": 135,
+        "name": "Edremit",
+        "slug": "edremit",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/edremit"
+      },
+      {
+        "id": 136,
+        "name": "Erdek",
+        "slug": "erdek",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/erdek"
+      },
+      {
+        "id": 137,
+        "name": "Gömeç",
+        "slug": "gomec",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/gomec"
+      },
+      {
+        "id": 138,
+        "name": "Gönen",
+        "slug": "gonen",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/gonen"
+      },
+      {
+        "id": 139,
+        "name": "Havran",
+        "slug": "havran",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/havran"
+      },
+      {
+        "id": 140,
+        "name": "İvrindi",
+        "slug": "ivrindi",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/ivrindi"
+      },
+      {
+        "id": 141,
+        "name": "Karesi",
+        "slug": "karesi",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/karesi"
+      },
+      {
+        "id": 142,
+        "name": "Kepsut",
+        "slug": "kepsut",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/kepsut"
+      },
+      {
+        "id": 143,
+        "name": "Manyas",
+        "slug": "manyas",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/manyas"
+      },
+      {
+        "id": 144,
+        "name": "Marmara",
+        "slug": "marmara",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/marmara"
+      },
+      {
+        "id": 145,
+        "name": "Savaştepe",
+        "slug": "savastepe",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/savastepe"
+      },
+      {
+        "id": 146,
+        "name": "Sındırgı",
+        "slug": "sindirgi",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/sindirgi"
+      },
+      {
+        "id": 147,
+        "name": "Susurluk",
+        "slug": "susurluk",
+        "guideUrl": "https://www.memleketimdijital.com/balikesir/susurluk"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "plate": "11",
+    "name": "Bilecik",
+    "slug": "bilecik",
+    "region": "Marmara",
+    "phoneCode": "228",
+    "coordinates": {
+      "lat": 40.1451,
+      "lng": 29.9799
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/bilecik",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Bilecik",
+    "districts": [
+      {
+        "id": 148,
+        "name": "Bozüyük",
+        "slug": "bozuyuk",
+        "guideUrl": "https://www.memleketimdijital.com/bilecik/bozuyuk"
+      },
+      {
+        "id": 149,
+        "name": "Gölpazarı",
+        "slug": "golpazari",
+        "guideUrl": "https://www.memleketimdijital.com/bilecik/golpazari"
+      },
+      {
+        "id": 150,
+        "name": "İnhisar",
+        "slug": "inhisar",
+        "guideUrl": "https://www.memleketimdijital.com/bilecik/inhisar"
+      },
+      {
+        "id": 151,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/bilecik/merkez"
+      },
+      {
+        "id": 152,
+        "name": "Osmaneli",
+        "slug": "osmaneli",
+        "guideUrl": "https://www.memleketimdijital.com/bilecik/osmaneli"
+      },
+      {
+        "id": 153,
+        "name": "Pazaryeri",
+        "slug": "pazaryeri",
+        "guideUrl": "https://www.memleketimdijital.com/bilecik/pazaryeri"
+      },
+      {
+        "id": 154,
+        "name": "Söğüt",
+        "slug": "sogut",
+        "guideUrl": "https://www.memleketimdijital.com/bilecik/sogut"
+      },
+      {
+        "id": 155,
+        "name": "Yenipazar",
+        "slug": "yenipazar",
+        "guideUrl": "https://www.memleketimdijital.com/bilecik/yenipazar"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "plate": "12",
+    "name": "Bingöl",
+    "slug": "bingol",
+    "region": "Doğu Anadolu",
+    "phoneCode": "426",
+    "coordinates": {
+      "lat": 38.8854,
+      "lng": 40.4966
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/bingol",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Bingöl",
+    "districts": [
+      {
+        "id": 156,
+        "name": "Adaklı",
+        "slug": "adakli",
+        "guideUrl": "https://www.memleketimdijital.com/bingol/adakli"
+      },
+      {
+        "id": 157,
+        "name": "Genç",
+        "slug": "genc",
+        "guideUrl": "https://www.memleketimdijital.com/bingol/genc"
+      },
+      {
+        "id": 158,
+        "name": "Karlıova",
+        "slug": "karliova",
+        "guideUrl": "https://www.memleketimdijital.com/bingol/karliova"
+      },
+      {
+        "id": 159,
+        "name": "Kiğı",
+        "slug": "kigi",
+        "guideUrl": "https://www.memleketimdijital.com/bingol/kigi"
+      },
+      {
+        "id": 160,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/bingol/merkez"
+      },
+      {
+        "id": 161,
+        "name": "Solhan",
+        "slug": "solhan",
+        "guideUrl": "https://www.memleketimdijital.com/bingol/solhan"
+      },
+      {
+        "id": 162,
+        "name": "Yayladere",
+        "slug": "yayladere",
+        "guideUrl": "https://www.memleketimdijital.com/bingol/yayladere"
+      },
+      {
+        "id": 163,
+        "name": "Yedisu",
+        "slug": "yedisu",
+        "guideUrl": "https://www.memleketimdijital.com/bingol/yedisu"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "plate": "13",
+    "name": "Bitlis",
+    "slug": "bitlis",
+    "region": "Doğu Anadolu",
+    "phoneCode": "434",
+    "coordinates": {
+      "lat": 38.4006,
+      "lng": 42.1095
+    },
+    "districtCount": 7,
+    "guideUrl": "https://www.memleketimdijital.com/bitlis",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Bitlis",
+    "districts": [
+      {
+        "id": 164,
+        "name": "Adilcevaz",
+        "slug": "adilcevaz",
+        "guideUrl": "https://www.memleketimdijital.com/bitlis/adilcevaz"
+      },
+      {
+        "id": 165,
+        "name": "Ahlat",
+        "slug": "ahlat",
+        "guideUrl": "https://www.memleketimdijital.com/bitlis/ahlat"
+      },
+      {
+        "id": 166,
+        "name": "Güroymak",
+        "slug": "guroymak",
+        "guideUrl": "https://www.memleketimdijital.com/bitlis/guroymak"
+      },
+      {
+        "id": 167,
+        "name": "Hizan",
+        "slug": "hizan",
+        "guideUrl": "https://www.memleketimdijital.com/bitlis/hizan"
+      },
+      {
+        "id": 168,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/bitlis/merkez"
+      },
+      {
+        "id": 169,
+        "name": "Mutki",
+        "slug": "mutki",
+        "guideUrl": "https://www.memleketimdijital.com/bitlis/mutki"
+      },
+      {
+        "id": 170,
+        "name": "Tatvan",
+        "slug": "tatvan",
+        "guideUrl": "https://www.memleketimdijital.com/bitlis/tatvan"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "plate": "14",
+    "name": "Bolu",
+    "slug": "bolu",
+    "region": "Karadeniz",
+    "phoneCode": "374",
+    "coordinates": {
+      "lat": 40.7392,
+      "lng": 31.6089
+    },
+    "districtCount": 9,
+    "guideUrl": "https://www.memleketimdijital.com/bolu",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Bolu",
+    "districts": [
+      {
+        "id": 171,
+        "name": "Dörtdivan",
+        "slug": "dortdivan",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/dortdivan"
+      },
+      {
+        "id": 172,
+        "name": "Gerede",
+        "slug": "gerede",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/gerede"
+      },
+      {
+        "id": 173,
+        "name": "Göynük",
+        "slug": "goynuk",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/goynuk"
+      },
+      {
+        "id": 174,
+        "name": "Kıbrıscık",
+        "slug": "kibriscik",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/kibriscik"
+      },
+      {
+        "id": 175,
+        "name": "Mengen",
+        "slug": "mengen",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/mengen"
+      },
+      {
+        "id": 176,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/merkez"
+      },
+      {
+        "id": 177,
+        "name": "Mudurnu",
+        "slug": "mudurnu",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/mudurnu"
+      },
+      {
+        "id": 178,
+        "name": "Seben",
+        "slug": "seben",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/seben"
+      },
+      {
+        "id": 179,
+        "name": "Yeniçağa",
+        "slug": "yenicaga",
+        "guideUrl": "https://www.memleketimdijital.com/bolu/yenicaga"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "plate": "15",
+    "name": "Burdur",
+    "slug": "burdur",
+    "region": "Akdeniz",
+    "phoneCode": "248",
+    "coordinates": {
+      "lat": 37.7203,
+      "lng": 30.2906
+    },
+    "districtCount": 11,
+    "guideUrl": "https://www.memleketimdijital.com/burdur",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Burdur",
+    "districts": [
+      {
+        "id": 180,
+        "name": "Ağlasun",
+        "slug": "aglasun",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/aglasun"
+      },
+      {
+        "id": 181,
+        "name": "Altınyayla",
+        "slug": "altinyayla",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/altinyayla"
+      },
+      {
+        "id": 182,
+        "name": "Bucak",
+        "slug": "bucak",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/bucak"
+      },
+      {
+        "id": 183,
+        "name": "Çavdır",
+        "slug": "cavdir",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/cavdir"
+      },
+      {
+        "id": 184,
+        "name": "Çeltikçi",
+        "slug": "celtikci",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/celtikci"
+      },
+      {
+        "id": 185,
+        "name": "Gölhisar",
+        "slug": "golhisar",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/golhisar"
+      },
+      {
+        "id": 186,
+        "name": "Karamanlı",
+        "slug": "karamanli",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/karamanli"
+      },
+      {
+        "id": 187,
+        "name": "Kemer",
+        "slug": "kemer",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/kemer"
+      },
+      {
+        "id": 188,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/merkez"
+      },
+      {
+        "id": 189,
+        "name": "Tefenni",
+        "slug": "tefenni",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/tefenni"
+      },
+      {
+        "id": 190,
+        "name": "Yeşilova",
+        "slug": "yesilova",
+        "guideUrl": "https://www.memleketimdijital.com/burdur/yesilova"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "plate": "16",
+    "name": "Bursa",
+    "slug": "bursa",
+    "region": "Marmara",
+    "phoneCode": "224",
+    "coordinates": {
+      "lat": 40.1885,
+      "lng": 29.061
+    },
+    "districtCount": 17,
+    "guideUrl": "https://www.memleketimdijital.com/bursa",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Bursa",
+    "districts": [
+      {
+        "id": 191,
+        "name": "Büyükorhan",
+        "slug": "buyukorhan",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/buyukorhan"
+      },
+      {
+        "id": 192,
+        "name": "Gemlik",
+        "slug": "gemlik",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/gemlik"
+      },
+      {
+        "id": 193,
+        "name": "Gürsu",
+        "slug": "gursu",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/gursu"
+      },
+      {
+        "id": 194,
+        "name": "Harmancık",
+        "slug": "harmancik",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/harmancik"
+      },
+      {
+        "id": 195,
+        "name": "İnegöl",
+        "slug": "inegol",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/inegol"
+      },
+      {
+        "id": 196,
+        "name": "İznik",
+        "slug": "iznik",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/iznik"
+      },
+      {
+        "id": 197,
+        "name": "Karacabey",
+        "slug": "karacabey",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/karacabey"
+      },
+      {
+        "id": 198,
+        "name": "Keles",
+        "slug": "keles",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/keles"
+      },
+      {
+        "id": 199,
+        "name": "Kestel",
+        "slug": "kestel",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/kestel"
+      },
+      {
+        "id": 200,
+        "name": "Mudanya",
+        "slug": "mudanya",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/mudanya"
+      },
+      {
+        "id": 201,
+        "name": "Mustafakemalpaşa",
+        "slug": "mustafakemalpasa",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/mustafakemalpasa"
+      },
+      {
+        "id": 202,
+        "name": "Nilüfer",
+        "slug": "nilufer",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/nilufer"
+      },
+      {
+        "id": 203,
+        "name": "Orhaneli",
+        "slug": "orhaneli",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/orhaneli"
+      },
+      {
+        "id": 204,
+        "name": "Orhangazi",
+        "slug": "orhangazi",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/orhangazi"
+      },
+      {
+        "id": 205,
+        "name": "Osmangazi",
+        "slug": "osmangazi",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/osmangazi"
+      },
+      {
+        "id": 206,
+        "name": "Yenişehir",
+        "slug": "yenisehir",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/yenisehir"
+      },
+      {
+        "id": 207,
+        "name": "Yıldırım",
+        "slug": "yildirim",
+        "guideUrl": "https://www.memleketimdijital.com/bursa/yildirim"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "plate": "17",
+    "name": "Çanakkale",
+    "slug": "canakkale",
+    "region": "Marmara",
+    "phoneCode": "286",
+    "coordinates": {
+      "lat": 40.1553,
+      "lng": 26.4142
+    },
+    "districtCount": 12,
+    "guideUrl": "https://www.memleketimdijital.com/canakkale",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Çanakkale",
+    "districts": [
+      {
+        "id": 208,
+        "name": "Ayvacık",
+        "slug": "ayvacik",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/ayvacik"
+      },
+      {
+        "id": 209,
+        "name": "Bayramiç",
+        "slug": "bayramic",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/bayramic"
+      },
+      {
+        "id": 210,
+        "name": "Biga",
+        "slug": "biga",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/biga"
+      },
+      {
+        "id": 211,
+        "name": "Bozcaada",
+        "slug": "bozcaada",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/bozcaada"
+      },
+      {
+        "id": 212,
+        "name": "Çan",
+        "slug": "can",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/can"
+      },
+      {
+        "id": 213,
+        "name": "Eceabat",
+        "slug": "eceabat",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/eceabat"
+      },
+      {
+        "id": 214,
+        "name": "Ezine",
+        "slug": "ezine",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/ezine"
+      },
+      {
+        "id": 215,
+        "name": "Gelibolu",
+        "slug": "gelibolu",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/gelibolu"
+      },
+      {
+        "id": 216,
+        "name": "Gökçeada",
+        "slug": "gokceada",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/gokceada"
+      },
+      {
+        "id": 217,
+        "name": "Lapseki",
+        "slug": "lapseki",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/lapseki"
+      },
+      {
+        "id": 218,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/merkez"
+      },
+      {
+        "id": 219,
+        "name": "Yenice",
+        "slug": "yenice",
+        "guideUrl": "https://www.memleketimdijital.com/canakkale/yenice"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "plate": "18",
+    "name": "Çankırı",
+    "slug": "cankiri",
+    "region": "İç Anadolu",
+    "phoneCode": "376",
+    "coordinates": {
+      "lat": 40.6013,
+      "lng": 33.6134
+    },
+    "districtCount": 12,
+    "guideUrl": "https://www.memleketimdijital.com/cankiri",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Çankırı",
+    "districts": [
+      {
+        "id": 220,
+        "name": "Atkaracalar",
+        "slug": "atkaracalar",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/atkaracalar"
+      },
+      {
+        "id": 221,
+        "name": "Bayramören",
+        "slug": "bayramoren",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/bayramoren"
+      },
+      {
+        "id": 222,
+        "name": "Çerkeş",
+        "slug": "cerkes",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/cerkes"
+      },
+      {
+        "id": 223,
+        "name": "Eldivan",
+        "slug": "eldivan",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/eldivan"
+      },
+      {
+        "id": 224,
+        "name": "Ilgaz",
+        "slug": "ilgaz",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/ilgaz"
+      },
+      {
+        "id": 225,
+        "name": "Kızılırmak",
+        "slug": "kizilirmak",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/kizilirmak"
+      },
+      {
+        "id": 226,
+        "name": "Korgun",
+        "slug": "korgun",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/korgun"
+      },
+      {
+        "id": 227,
+        "name": "Kurşunlu",
+        "slug": "kursunlu",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/kursunlu"
+      },
+      {
+        "id": 228,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/merkez"
+      },
+      {
+        "id": 229,
+        "name": "Orta",
+        "slug": "orta",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/orta"
+      },
+      {
+        "id": 230,
+        "name": "Şabanözü",
+        "slug": "sabanozu",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/sabanozu"
+      },
+      {
+        "id": 231,
+        "name": "Yapraklı",
+        "slug": "yaprakli",
+        "guideUrl": "https://www.memleketimdijital.com/cankiri/yaprakli"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "plate": "19",
+    "name": "Çorum",
+    "slug": "corum",
+    "region": "Karadeniz",
+    "phoneCode": "364",
+    "coordinates": {
+      "lat": 40.5506,
+      "lng": 34.9556
+    },
+    "districtCount": 14,
+    "guideUrl": "https://www.memleketimdijital.com/corum",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Çorum",
+    "districts": [
+      {
+        "id": 232,
+        "name": "Alaca",
+        "slug": "alaca",
+        "guideUrl": "https://www.memleketimdijital.com/corum/alaca"
+      },
+      {
+        "id": 233,
+        "name": "Bayat",
+        "slug": "bayat",
+        "guideUrl": "https://www.memleketimdijital.com/corum/bayat"
+      },
+      {
+        "id": 234,
+        "name": "Boğazkale",
+        "slug": "bogazkale",
+        "guideUrl": "https://www.memleketimdijital.com/corum/bogazkale"
+      },
+      {
+        "id": 235,
+        "name": "Dodurga",
+        "slug": "dodurga",
+        "guideUrl": "https://www.memleketimdijital.com/corum/dodurga"
+      },
+      {
+        "id": 236,
+        "name": "İskilip",
+        "slug": "iskilip",
+        "guideUrl": "https://www.memleketimdijital.com/corum/iskilip"
+      },
+      {
+        "id": 237,
+        "name": "Kargı",
+        "slug": "kargi",
+        "guideUrl": "https://www.memleketimdijital.com/corum/kargi"
+      },
+      {
+        "id": 238,
+        "name": "Laçin",
+        "slug": "lacin",
+        "guideUrl": "https://www.memleketimdijital.com/corum/lacin"
+      },
+      {
+        "id": 239,
+        "name": "Mecitözü",
+        "slug": "mecitozu",
+        "guideUrl": "https://www.memleketimdijital.com/corum/mecitozu"
+      },
+      {
+        "id": 240,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/corum/merkez"
+      },
+      {
+        "id": 241,
+        "name": "Oğuzlar",
+        "slug": "oguzlar",
+        "guideUrl": "https://www.memleketimdijital.com/corum/oguzlar"
+      },
+      {
+        "id": 242,
+        "name": "Ortaköy",
+        "slug": "ortakoy",
+        "guideUrl": "https://www.memleketimdijital.com/corum/ortakoy"
+      },
+      {
+        "id": 243,
+        "name": "Osmancık",
+        "slug": "osmancik",
+        "guideUrl": "https://www.memleketimdijital.com/corum/osmancik"
+      },
+      {
+        "id": 244,
+        "name": "Sungurlu",
+        "slug": "sungurlu",
+        "guideUrl": "https://www.memleketimdijital.com/corum/sungurlu"
+      },
+      {
+        "id": 245,
+        "name": "Uğurludağ",
+        "slug": "ugurludag",
+        "guideUrl": "https://www.memleketimdijital.com/corum/ugurludag"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "plate": "20",
+    "name": "Denizli",
+    "slug": "denizli",
+    "region": "Ege",
+    "phoneCode": "258",
+    "coordinates": {
+      "lat": 37.7765,
+      "lng": 29.0864
+    },
+    "districtCount": 19,
+    "guideUrl": "https://www.memleketimdijital.com/denizli",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Denizli",
+    "districts": [
+      {
+        "id": 246,
+        "name": "Acıpayam",
+        "slug": "acipayam",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/acipayam"
+      },
+      {
+        "id": 247,
+        "name": "Babadağ",
+        "slug": "babadag",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/babadag"
+      },
+      {
+        "id": 248,
+        "name": "Baklan",
+        "slug": "baklan",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/baklan"
+      },
+      {
+        "id": 249,
+        "name": "Bekilli",
+        "slug": "bekilli",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/bekilli"
+      },
+      {
+        "id": 250,
+        "name": "Beyağaç",
+        "slug": "beyagac",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/beyagac"
+      },
+      {
+        "id": 251,
+        "name": "Bozkurt",
+        "slug": "bozkurt",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/bozkurt"
+      },
+      {
+        "id": 252,
+        "name": "Buldan",
+        "slug": "buldan",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/buldan"
+      },
+      {
+        "id": 253,
+        "name": "Çal",
+        "slug": "cal",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/cal"
+      },
+      {
+        "id": 254,
+        "name": "Çameli",
+        "slug": "cameli",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/cameli"
+      },
+      {
+        "id": 255,
+        "name": "Çardak",
+        "slug": "cardak",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/cardak"
+      },
+      {
+        "id": 256,
+        "name": "Çivril",
+        "slug": "civril",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/civril"
+      },
+      {
+        "id": 257,
+        "name": "Güney",
+        "slug": "guney",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/guney"
+      },
+      {
+        "id": 258,
+        "name": "Honaz",
+        "slug": "honaz",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/honaz"
+      },
+      {
+        "id": 259,
+        "name": "Kale",
+        "slug": "kale",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/kale"
+      },
+      {
+        "id": 260,
+        "name": "Merkezefendi",
+        "slug": "merkezefendi",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/merkezefendi"
+      },
+      {
+        "id": 261,
+        "name": "Pamukkale",
+        "slug": "pamukkale",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/pamukkale"
+      },
+      {
+        "id": 262,
+        "name": "Sarayköy",
+        "slug": "saraykoy",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/saraykoy"
+      },
+      {
+        "id": 263,
+        "name": "Serinhisar",
+        "slug": "serinhisar",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/serinhisar"
+      },
+      {
+        "id": 264,
+        "name": "Tavas",
+        "slug": "tavas",
+        "guideUrl": "https://www.memleketimdijital.com/denizli/tavas"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "plate": "21",
+    "name": "Diyarbakır",
+    "slug": "diyarbakir",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "412",
+    "coordinates": {
+      "lat": 37.9144,
+      "lng": 40.2306
+    },
+    "districtCount": 17,
+    "guideUrl": "https://www.memleketimdijital.com/diyarbakir",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Diyarbakır",
+    "districts": [
+      {
+        "id": 265,
+        "name": "Bağlar",
+        "slug": "baglar",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/baglar"
+      },
+      {
+        "id": 266,
+        "name": "Bismil",
+        "slug": "bismil",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/bismil"
+      },
+      {
+        "id": 267,
+        "name": "Çermik",
+        "slug": "cermik",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/cermik"
+      },
+      {
+        "id": 268,
+        "name": "Çınar",
+        "slug": "cinar",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/cinar"
+      },
+      {
+        "id": 269,
+        "name": "Çüngüş",
+        "slug": "cungus",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/cungus"
+      },
+      {
+        "id": 270,
+        "name": "Dicle",
+        "slug": "dicle",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/dicle"
+      },
+      {
+        "id": 271,
+        "name": "Eğil",
+        "slug": "egil",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/egil"
+      },
+      {
+        "id": 272,
+        "name": "Ergani",
+        "slug": "ergani",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/ergani"
+      },
+      {
+        "id": 273,
+        "name": "Hani",
+        "slug": "hani",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/hani"
+      },
+      {
+        "id": 274,
+        "name": "Hazro",
+        "slug": "hazro",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/hazro"
+      },
+      {
+        "id": 275,
+        "name": "Kayapınar",
+        "slug": "kayapinar",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/kayapinar"
+      },
+      {
+        "id": 276,
+        "name": "Kocaköy",
+        "slug": "kocakoy",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/kocakoy"
+      },
+      {
+        "id": 277,
+        "name": "Kulp",
+        "slug": "kulp",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/kulp"
+      },
+      {
+        "id": 278,
+        "name": "Lice",
+        "slug": "lice",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/lice"
+      },
+      {
+        "id": 279,
+        "name": "Silvan",
+        "slug": "silvan",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/silvan"
+      },
+      {
+        "id": 280,
+        "name": "Sur",
+        "slug": "sur",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/sur"
+      },
+      {
+        "id": 281,
+        "name": "Yenişehir",
+        "slug": "yenisehir",
+        "guideUrl": "https://www.memleketimdijital.com/diyarbakir/yenisehir"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "plate": "22",
+    "name": "Edirne",
+    "slug": "edirne",
+    "region": "Marmara",
+    "phoneCode": "284",
+    "coordinates": {
+      "lat": 41.6818,
+      "lng": 26.5623
+    },
+    "districtCount": 9,
+    "guideUrl": "https://www.memleketimdijital.com/edirne",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Edirne",
+    "districts": [
+      {
+        "id": 282,
+        "name": "Enez",
+        "slug": "enez",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/enez"
+      },
+      {
+        "id": 283,
+        "name": "Havsa",
+        "slug": "havsa",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/havsa"
+      },
+      {
+        "id": 284,
+        "name": "İpsala",
+        "slug": "ipsala",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/ipsala"
+      },
+      {
+        "id": 285,
+        "name": "Keşan",
+        "slug": "kesan",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/kesan"
+      },
+      {
+        "id": 286,
+        "name": "Lalapaşa",
+        "slug": "lalapasa",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/lalapasa"
+      },
+      {
+        "id": 287,
+        "name": "Meriç",
+        "slug": "meric",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/meric"
+      },
+      {
+        "id": 288,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/merkez"
+      },
+      {
+        "id": 289,
+        "name": "Süloğlu",
+        "slug": "suloglu",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/suloglu"
+      },
+      {
+        "id": 290,
+        "name": "Uzunköprü",
+        "slug": "uzunkopru",
+        "guideUrl": "https://www.memleketimdijital.com/edirne/uzunkopru"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "plate": "23",
+    "name": "Elazığ",
+    "slug": "elazig",
+    "region": "Doğu Anadolu",
+    "phoneCode": "424",
+    "coordinates": {
+      "lat": 38.681,
+      "lng": 39.2264
+    },
+    "districtCount": 11,
+    "guideUrl": "https://www.memleketimdijital.com/elazig",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Elazığ",
+    "districts": [
+      {
+        "id": 291,
+        "name": "Ağın",
+        "slug": "agin",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/agin"
+      },
+      {
+        "id": 292,
+        "name": "Alacakaya",
+        "slug": "alacakaya",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/alacakaya"
+      },
+      {
+        "id": 293,
+        "name": "Arıcak",
+        "slug": "aricak",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/aricak"
+      },
+      {
+        "id": 294,
+        "name": "Baskil",
+        "slug": "baskil",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/baskil"
+      },
+      {
+        "id": 295,
+        "name": "Karakoçan",
+        "slug": "karakocan",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/karakocan"
+      },
+      {
+        "id": 296,
+        "name": "Keban",
+        "slug": "keban",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/keban"
+      },
+      {
+        "id": 297,
+        "name": "Kovancılar",
+        "slug": "kovancilar",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/kovancilar"
+      },
+      {
+        "id": 298,
+        "name": "Maden",
+        "slug": "maden",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/maden"
+      },
+      {
+        "id": 299,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/merkez"
+      },
+      {
+        "id": 300,
+        "name": "Palu",
+        "slug": "palu",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/palu"
+      },
+      {
+        "id": 301,
+        "name": "Sivrice",
+        "slug": "sivrice",
+        "guideUrl": "https://www.memleketimdijital.com/elazig/sivrice"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "plate": "24",
+    "name": "Erzincan",
+    "slug": "erzincan",
+    "region": "Doğu Anadolu",
+    "phoneCode": "446",
+    "coordinates": {
+      "lat": 39.75,
+      "lng": 39.5
+    },
+    "districtCount": 9,
+    "guideUrl": "https://www.memleketimdijital.com/erzincan",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Erzincan",
+    "districts": [
+      {
+        "id": 302,
+        "name": "Çayırlı",
+        "slug": "cayirli",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/cayirli"
+      },
+      {
+        "id": 303,
+        "name": "İliç",
+        "slug": "ilic",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/ilic"
+      },
+      {
+        "id": 304,
+        "name": "Kemah",
+        "slug": "kemah",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/kemah"
+      },
+      {
+        "id": 305,
+        "name": "Kemaliye",
+        "slug": "kemaliye",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/kemaliye"
+      },
+      {
+        "id": 306,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/merkez"
+      },
+      {
+        "id": 307,
+        "name": "Otlukbeli",
+        "slug": "otlukbeli",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/otlukbeli"
+      },
+      {
+        "id": 308,
+        "name": "Refahiye",
+        "slug": "refahiye",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/refahiye"
+      },
+      {
+        "id": 309,
+        "name": "Tercan",
+        "slug": "tercan",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/tercan"
+      },
+      {
+        "id": 310,
+        "name": "Üzümlü",
+        "slug": "uzumlu",
+        "guideUrl": "https://www.memleketimdijital.com/erzincan/uzumlu"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "plate": "25",
+    "name": "Erzurum",
+    "slug": "erzurum",
+    "region": "Doğu Anadolu",
+    "phoneCode": "442",
+    "coordinates": {
+      "lat": 39.9,
+      "lng": 41.27
+    },
+    "districtCount": 20,
+    "guideUrl": "https://www.memleketimdijital.com/erzurum",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Erzurum",
+    "districts": [
+      {
+        "id": 311,
+        "name": "Aşkale",
+        "slug": "askale",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/askale"
+      },
+      {
+        "id": 312,
+        "name": "Aziziye",
+        "slug": "aziziye",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/aziziye"
+      },
+      {
+        "id": 313,
+        "name": "Çat",
+        "slug": "cat",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/cat"
+      },
+      {
+        "id": 314,
+        "name": "Hınıs",
+        "slug": "hinis",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/hinis"
+      },
+      {
+        "id": 315,
+        "name": "Horasan",
+        "slug": "horasan",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/horasan"
+      },
+      {
+        "id": 316,
+        "name": "İspir",
+        "slug": "ispir",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/ispir"
+      },
+      {
+        "id": 317,
+        "name": "Karaçoban",
+        "slug": "karacoban",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/karacoban"
+      },
+      {
+        "id": 318,
+        "name": "Karayazı",
+        "slug": "karayazi",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/karayazi"
+      },
+      {
+        "id": 319,
+        "name": "Köprüköy",
+        "slug": "koprukoy",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/koprukoy"
+      },
+      {
+        "id": 320,
+        "name": "Narman",
+        "slug": "narman",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/narman"
+      },
+      {
+        "id": 321,
+        "name": "Oltu",
+        "slug": "oltu",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/oltu"
+      },
+      {
+        "id": 322,
+        "name": "Olur",
+        "slug": "olur",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/olur"
+      },
+      {
+        "id": 323,
+        "name": "Palandöken",
+        "slug": "palandoken",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/palandoken"
+      },
+      {
+        "id": 324,
+        "name": "Pasinler",
+        "slug": "pasinler",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/pasinler"
+      },
+      {
+        "id": 325,
+        "name": "Pazaryolu",
+        "slug": "pazaryolu",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/pazaryolu"
+      },
+      {
+        "id": 326,
+        "name": "Şenkaya",
+        "slug": "senkaya",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/senkaya"
+      },
+      {
+        "id": 327,
+        "name": "Tekman",
+        "slug": "tekman",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/tekman"
+      },
+      {
+        "id": 328,
+        "name": "Tortum",
+        "slug": "tortum",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/tortum"
+      },
+      {
+        "id": 329,
+        "name": "Uzundere",
+        "slug": "uzundere",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/uzundere"
+      },
+      {
+        "id": 330,
+        "name": "Yakutiye",
+        "slug": "yakutiye",
+        "guideUrl": "https://www.memleketimdijital.com/erzurum/yakutiye"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "plate": "26",
+    "name": "Eskişehir",
+    "slug": "eskisehir",
+    "region": "İç Anadolu",
+    "phoneCode": "222",
+    "coordinates": {
+      "lat": 39.7767,
+      "lng": 30.5206
+    },
+    "districtCount": 14,
+    "guideUrl": "https://www.memleketimdijital.com/eskisehir",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Eskişehir",
+    "districts": [
+      {
+        "id": 331,
+        "name": "Alpu",
+        "slug": "alpu",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/alpu"
+      },
+      {
+        "id": 332,
+        "name": "Beylikova",
+        "slug": "beylikova",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/beylikova"
+      },
+      {
+        "id": 333,
+        "name": "Çifteler",
+        "slug": "cifteler",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/cifteler"
+      },
+      {
+        "id": 334,
+        "name": "Günyüzü",
+        "slug": "gunyuzu",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/gunyuzu"
+      },
+      {
+        "id": 335,
+        "name": "Han",
+        "slug": "han",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/han"
+      },
+      {
+        "id": 336,
+        "name": "İnönü",
+        "slug": "inonu",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/inonu"
+      },
+      {
+        "id": 337,
+        "name": "Mahmudiye",
+        "slug": "mahmudiye",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/mahmudiye"
+      },
+      {
+        "id": 338,
+        "name": "Mihalgazi",
+        "slug": "mihalgazi",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/mihalgazi"
+      },
+      {
+        "id": 339,
+        "name": "Mihalıççık",
+        "slug": "mihaliccik",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/mihaliccik"
+      },
+      {
+        "id": 340,
+        "name": "Odunpazarı",
+        "slug": "odunpazari",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/odunpazari"
+      },
+      {
+        "id": 341,
+        "name": "Sarıcakaya",
+        "slug": "saricakaya",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/saricakaya"
+      },
+      {
+        "id": 342,
+        "name": "Seyitgazi",
+        "slug": "seyitgazi",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/seyitgazi"
+      },
+      {
+        "id": 343,
+        "name": "Sivrihisar",
+        "slug": "sivrihisar",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/sivrihisar"
+      },
+      {
+        "id": 344,
+        "name": "Tepebaşı",
+        "slug": "tepebasi",
+        "guideUrl": "https://www.memleketimdijital.com/eskisehir/tepebasi"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "plate": "27",
+    "name": "Gaziantep",
+    "slug": "gaziantep",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "342",
+    "coordinates": {
+      "lat": 37.0662,
+      "lng": 37.3833
+    },
+    "districtCount": 9,
+    "guideUrl": "https://www.memleketimdijital.com/gaziantep",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Gaziantep",
+    "districts": [
+      {
+        "id": 345,
+        "name": "Araban",
+        "slug": "araban",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/araban"
+      },
+      {
+        "id": 346,
+        "name": "İslahiye",
+        "slug": "islahiye",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/islahiye"
+      },
+      {
+        "id": 347,
+        "name": "Karkamış",
+        "slug": "karkamis",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/karkamis"
+      },
+      {
+        "id": 348,
+        "name": "Nizip",
+        "slug": "nizip",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/nizip"
+      },
+      {
+        "id": 349,
+        "name": "Nurdağı",
+        "slug": "nurdagi",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/nurdagi"
+      },
+      {
+        "id": 350,
+        "name": "Oğuzeli",
+        "slug": "oguzeli",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/oguzeli"
+      },
+      {
+        "id": 351,
+        "name": "Şahinbey",
+        "slug": "sahinbey",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/sahinbey"
+      },
+      {
+        "id": 352,
+        "name": "Şehitkamil",
+        "slug": "sehitkamil",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/sehitkamil"
+      },
+      {
+        "id": 353,
+        "name": "Yavuzeli",
+        "slug": "yavuzeli",
+        "guideUrl": "https://www.memleketimdijital.com/gaziantep/yavuzeli"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "plate": "28",
+    "name": "Giresun",
+    "slug": "giresun",
+    "region": "Karadeniz",
+    "phoneCode": "454",
+    "coordinates": {
+      "lat": 40.9128,
+      "lng": 38.3895
+    },
+    "districtCount": 16,
+    "guideUrl": "https://www.memleketimdijital.com/giresun",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Giresun",
+    "districts": [
+      {
+        "id": 354,
+        "name": "Alucra",
+        "slug": "alucra",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/alucra"
+      },
+      {
+        "id": 355,
+        "name": "Bulancak",
+        "slug": "bulancak",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/bulancak"
+      },
+      {
+        "id": 356,
+        "name": "Çamoluk",
+        "slug": "camoluk",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/camoluk"
+      },
+      {
+        "id": 357,
+        "name": "Çanakçı",
+        "slug": "canakci",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/canakci"
+      },
+      {
+        "id": 358,
+        "name": "Dereli",
+        "slug": "dereli",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/dereli"
+      },
+      {
+        "id": 359,
+        "name": "Doğankent",
+        "slug": "dogankent",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/dogankent"
+      },
+      {
+        "id": 360,
+        "name": "Espiye",
+        "slug": "espiye",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/espiye"
+      },
+      {
+        "id": 361,
+        "name": "Eynesil",
+        "slug": "eynesil",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/eynesil"
+      },
+      {
+        "id": 362,
+        "name": "Görele",
+        "slug": "gorele",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/gorele"
+      },
+      {
+        "id": 363,
+        "name": "Güce",
+        "slug": "guce",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/guce"
+      },
+      {
+        "id": 364,
+        "name": "Keşap",
+        "slug": "kesap",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/kesap"
+      },
+      {
+        "id": 365,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/merkez"
+      },
+      {
+        "id": 366,
+        "name": "Piraziz",
+        "slug": "piraziz",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/piraziz"
+      },
+      {
+        "id": 367,
+        "name": "Şebinkarahisar",
+        "slug": "sebinkarahisar",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/sebinkarahisar"
+      },
+      {
+        "id": 368,
+        "name": "Tirebolu",
+        "slug": "tirebolu",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/tirebolu"
+      },
+      {
+        "id": 369,
+        "name": "Yağlıdere",
+        "slug": "yaglidere",
+        "guideUrl": "https://www.memleketimdijital.com/giresun/yaglidere"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "plate": "29",
+    "name": "Gümüşhane",
+    "slug": "gumushane",
+    "region": "Karadeniz",
+    "phoneCode": "456",
+    "coordinates": {
+      "lat": 40.4386,
+      "lng": 39.5086
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/gumushane",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Gümüşhane",
+    "districts": [
+      {
+        "id": 370,
+        "name": "Kelkit",
+        "slug": "kelkit",
+        "guideUrl": "https://www.memleketimdijital.com/gumushane/kelkit"
+      },
+      {
+        "id": 371,
+        "name": "Köse",
+        "slug": "kose",
+        "guideUrl": "https://www.memleketimdijital.com/gumushane/kose"
+      },
+      {
+        "id": 372,
+        "name": "Kürtün",
+        "slug": "kurtun",
+        "guideUrl": "https://www.memleketimdijital.com/gumushane/kurtun"
+      },
+      {
+        "id": 373,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/gumushane/merkez"
+      },
+      {
+        "id": 374,
+        "name": "Şiran",
+        "slug": "siran",
+        "guideUrl": "https://www.memleketimdijital.com/gumushane/siran"
+      },
+      {
+        "id": 375,
+        "name": "Torul",
+        "slug": "torul",
+        "guideUrl": "https://www.memleketimdijital.com/gumushane/torul"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "plate": "30",
+    "name": "Hakkari",
+    "slug": "hakkari",
+    "region": "Doğu Anadolu",
+    "phoneCode": "438",
+    "coordinates": {
+      "lat": 37.5833,
+      "lng": 43.7333
+    },
+    "districtCount": 5,
+    "guideUrl": "https://www.memleketimdijital.com/hakkari",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Hakkari",
+    "districts": [
+      {
+        "id": 376,
+        "name": "Çukurca",
+        "slug": "cukurca",
+        "guideUrl": "https://www.memleketimdijital.com/hakkari/cukurca"
+      },
+      {
+        "id": 377,
+        "name": "Derecik",
+        "slug": "derecik",
+        "guideUrl": "https://www.memleketimdijital.com/hakkari/derecik"
+      },
+      {
+        "id": 378,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/hakkari/merkez"
+      },
+      {
+        "id": 379,
+        "name": "Şemdinli",
+        "slug": "semdinli",
+        "guideUrl": "https://www.memleketimdijital.com/hakkari/semdinli"
+      },
+      {
+        "id": 380,
+        "name": "Yüksekova",
+        "slug": "yuksekova",
+        "guideUrl": "https://www.memleketimdijital.com/hakkari/yuksekova"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "plate": "31",
+    "name": "Hatay",
+    "slug": "hatay",
+    "region": "Akdeniz",
+    "phoneCode": "326",
+    "coordinates": {
+      "lat": 36.4018,
+      "lng": 36.3498
+    },
+    "districtCount": 15,
+    "guideUrl": "https://www.memleketimdijital.com/hatay",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Hatay",
+    "districts": [
+      {
+        "id": 381,
+        "name": "Altınözü",
+        "slug": "altinozu",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/altinozu"
+      },
+      {
+        "id": 382,
+        "name": "Antakya",
+        "slug": "antakya",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/antakya"
+      },
+      {
+        "id": 383,
+        "name": "Arsuz",
+        "slug": "arsuz",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/arsuz"
+      },
+      {
+        "id": 384,
+        "name": "Belen",
+        "slug": "belen",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/belen"
+      },
+      {
+        "id": 385,
+        "name": "Defne",
+        "slug": "defne",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/defne"
+      },
+      {
+        "id": 386,
+        "name": "Dörtyol",
+        "slug": "dortyol",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/dortyol"
+      },
+      {
+        "id": 387,
+        "name": "Erzin",
+        "slug": "erzin",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/erzin"
+      },
+      {
+        "id": 388,
+        "name": "Hassa",
+        "slug": "hassa",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/hassa"
+      },
+      {
+        "id": 389,
+        "name": "İskenderun",
+        "slug": "iskenderun",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/iskenderun"
+      },
+      {
+        "id": 390,
+        "name": "Kırıkhan",
+        "slug": "kirikhan",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/kirikhan"
+      },
+      {
+        "id": 391,
+        "name": "Kumlu",
+        "slug": "kumlu",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/kumlu"
+      },
+      {
+        "id": 392,
+        "name": "Payas",
+        "slug": "payas",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/payas"
+      },
+      {
+        "id": 393,
+        "name": "Reyhanlı",
+        "slug": "reyhanli",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/reyhanli"
+      },
+      {
+        "id": 394,
+        "name": "Samandağ",
+        "slug": "samandag",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/samandag"
+      },
+      {
+        "id": 395,
+        "name": "Yayladağı",
+        "slug": "yayladagi",
+        "guideUrl": "https://www.memleketimdijital.com/hatay/yayladagi"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "plate": "32",
+    "name": "Isparta",
+    "slug": "isparta",
+    "region": "Akdeniz",
+    "phoneCode": "246",
+    "coordinates": {
+      "lat": 37.7648,
+      "lng": 30.5566
+    },
+    "districtCount": 13,
+    "guideUrl": "https://www.memleketimdijital.com/isparta",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Isparta",
+    "districts": [
+      {
+        "id": 396,
+        "name": "Aksu",
+        "slug": "aksu",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/aksu"
+      },
+      {
+        "id": 397,
+        "name": "Atabey",
+        "slug": "atabey",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/atabey"
+      },
+      {
+        "id": 398,
+        "name": "Eğirdir",
+        "slug": "egirdir",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/egirdir"
+      },
+      {
+        "id": 399,
+        "name": "Gelendost",
+        "slug": "gelendost",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/gelendost"
+      },
+      {
+        "id": 400,
+        "name": "Gönen",
+        "slug": "gonen",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/gonen"
+      },
+      {
+        "id": 401,
+        "name": "Keçiborlu",
+        "slug": "keciborlu",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/keciborlu"
+      },
+      {
+        "id": 402,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/merkez"
+      },
+      {
+        "id": 403,
+        "name": "Senirkent",
+        "slug": "senirkent",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/senirkent"
+      },
+      {
+        "id": 404,
+        "name": "Sütçüler",
+        "slug": "sutculer",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/sutculer"
+      },
+      {
+        "id": 405,
+        "name": "Şarkikaraağaç",
+        "slug": "sarkikaraagac",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/sarkikaraagac"
+      },
+      {
+        "id": 406,
+        "name": "Uluborlu",
+        "slug": "uluborlu",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/uluborlu"
+      },
+      {
+        "id": 407,
+        "name": "Yalvaç",
+        "slug": "yalvac",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/yalvac"
+      },
+      {
+        "id": 408,
+        "name": "Yenişarbademli",
+        "slug": "yenisarbademli",
+        "guideUrl": "https://www.memleketimdijital.com/isparta/yenisarbademli"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "plate": "33",
+    "name": "Mersin",
+    "slug": "mersin",
+    "region": "Akdeniz",
+    "phoneCode": "324",
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 34.6333
+    },
+    "districtCount": 13,
+    "guideUrl": "https://www.memleketimdijital.com/mersin",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Mersin",
+    "districts": [
+      {
+        "id": 409,
+        "name": "Akdeniz",
+        "slug": "akdeniz",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/akdeniz"
+      },
+      {
+        "id": 410,
+        "name": "Anamur",
+        "slug": "anamur",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/anamur"
+      },
+      {
+        "id": 411,
+        "name": "Aydıncık",
+        "slug": "aydincik",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/aydincik"
+      },
+      {
+        "id": 412,
+        "name": "Bozyazı",
+        "slug": "bozyazi",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/bozyazi"
+      },
+      {
+        "id": 413,
+        "name": "Çamlıyayla",
+        "slug": "camliyayla",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/camliyayla"
+      },
+      {
+        "id": 414,
+        "name": "Erdemli",
+        "slug": "erdemli",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/erdemli"
+      },
+      {
+        "id": 415,
+        "name": "Gülnar",
+        "slug": "gulnar",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/gulnar"
+      },
+      {
+        "id": 416,
+        "name": "Mezitli",
+        "slug": "mezitli",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/mezitli"
+      },
+      {
+        "id": 417,
+        "name": "Mut",
+        "slug": "mut",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/mut"
+      },
+      {
+        "id": 418,
+        "name": "Silifke",
+        "slug": "silifke",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/silifke"
+      },
+      {
+        "id": 419,
+        "name": "Tarsus",
+        "slug": "tarsus",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/tarsus"
+      },
+      {
+        "id": 420,
+        "name": "Toroslar",
+        "slug": "toroslar",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/toroslar"
+      },
+      {
+        "id": 421,
+        "name": "Yenişehir",
+        "slug": "yenisehir",
+        "guideUrl": "https://www.memleketimdijital.com/mersin/yenisehir"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "plate": "34",
+    "name": "İstanbul",
+    "slug": "istanbul",
+    "region": "Marmara",
+    "phoneCode": "212",
+    "coordinates": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    "districtCount": 39,
+    "guideUrl": "https://www.memleketimdijital.com/istanbul",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=İstanbul",
+    "districts": [
+      {
+        "id": 422,
+        "name": "Adalar",
+        "slug": "adalar",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/adalar"
+      },
+      {
+        "id": 423,
+        "name": "Arnavutköy",
+        "slug": "arnavutkoy",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/arnavutkoy"
+      },
+      {
+        "id": 424,
+        "name": "Ataşehir",
+        "slug": "atasehir",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/atasehir"
+      },
+      {
+        "id": 425,
+        "name": "Avcılar",
+        "slug": "avcilar",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/avcilar"
+      },
+      {
+        "id": 426,
+        "name": "Bağcılar",
+        "slug": "bagcilar",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/bagcilar"
+      },
+      {
+        "id": 427,
+        "name": "Bahçelievler",
+        "slug": "bahcelievler",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/bahcelievler"
+      },
+      {
+        "id": 428,
+        "name": "Bakırköy",
+        "slug": "bakirkoy",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/bakirkoy"
+      },
+      {
+        "id": 429,
+        "name": "Başakşehir",
+        "slug": "basaksehir",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/basaksehir"
+      },
+      {
+        "id": 430,
+        "name": "Bayrampaşa",
+        "slug": "bayrampasa",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/bayrampasa"
+      },
+      {
+        "id": 431,
+        "name": "Beşiktaş",
+        "slug": "besiktas",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/besiktas"
+      },
+      {
+        "id": 432,
+        "name": "Beykoz",
+        "slug": "beykoz",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/beykoz"
+      },
+      {
+        "id": 433,
+        "name": "Beylikdüzü",
+        "slug": "beylikduzu",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/beylikduzu"
+      },
+      {
+        "id": 434,
+        "name": "Beyoğlu",
+        "slug": "beyoglu",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/beyoglu"
+      },
+      {
+        "id": 435,
+        "name": "Büyükçekmece",
+        "slug": "buyukcekmece",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/buyukcekmece"
+      },
+      {
+        "id": 436,
+        "name": "Çatalca",
+        "slug": "catalca",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/catalca"
+      },
+      {
+        "id": 437,
+        "name": "Çekmeköy",
+        "slug": "cekmekoy",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/cekmekoy"
+      },
+      {
+        "id": 438,
+        "name": "Esenler",
+        "slug": "esenler",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/esenler"
+      },
+      {
+        "id": 439,
+        "name": "Esenyurt",
+        "slug": "esenyurt",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/esenyurt"
+      },
+      {
+        "id": 440,
+        "name": "Eyüpsultan",
+        "slug": "eyupsultan",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/eyupsultan"
+      },
+      {
+        "id": 441,
+        "name": "Fatih",
+        "slug": "fatih",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/fatih"
+      },
+      {
+        "id": 442,
+        "name": "Gaziosmanpaşa",
+        "slug": "gaziosmanpasa",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/gaziosmanpasa"
+      },
+      {
+        "id": 443,
+        "name": "Güngören",
+        "slug": "gungoren",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/gungoren"
+      },
+      {
+        "id": 444,
+        "name": "Kadıköy",
+        "slug": "kadikoy",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/kadikoy"
+      },
+      {
+        "id": 445,
+        "name": "Kağıthane",
+        "slug": "kagithane",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/kagithane"
+      },
+      {
+        "id": 446,
+        "name": "Kartal",
+        "slug": "kartal",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/kartal"
+      },
+      {
+        "id": 447,
+        "name": "Küçükçekmece",
+        "slug": "kucukcekmece",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/kucukcekmece"
+      },
+      {
+        "id": 448,
+        "name": "Maltepe",
+        "slug": "maltepe",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/maltepe"
+      },
+      {
+        "id": 449,
+        "name": "Pendik",
+        "slug": "pendik",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/pendik"
+      },
+      {
+        "id": 450,
+        "name": "Sancaktepe",
+        "slug": "sancaktepe",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/sancaktepe"
+      },
+      {
+        "id": 451,
+        "name": "Sarıyer",
+        "slug": "sariyer",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/sariyer"
+      },
+      {
+        "id": 452,
+        "name": "Silivri",
+        "slug": "silivri",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/silivri"
+      },
+      {
+        "id": 453,
+        "name": "Sultanbeyli",
+        "slug": "sultanbeyli",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/sultanbeyli"
+      },
+      {
+        "id": 454,
+        "name": "Sultangazi",
+        "slug": "sultangazi",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/sultangazi"
+      },
+      {
+        "id": 455,
+        "name": "Şile",
+        "slug": "sile",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/sile"
+      },
+      {
+        "id": 456,
+        "name": "Şişli",
+        "slug": "sisli",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/sisli"
+      },
+      {
+        "id": 457,
+        "name": "Tuzla",
+        "slug": "tuzla",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/tuzla"
+      },
+      {
+        "id": 458,
+        "name": "Ümraniye",
+        "slug": "umraniye",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/umraniye"
+      },
+      {
+        "id": 459,
+        "name": "Üsküdar",
+        "slug": "uskudar",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/uskudar"
+      },
+      {
+        "id": 460,
+        "name": "Zeytinburnu",
+        "slug": "zeytinburnu",
+        "guideUrl": "https://www.memleketimdijital.com/istanbul/zeytinburnu"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "plate": "35",
+    "name": "İzmir",
+    "slug": "izmir",
+    "region": "Ege",
+    "phoneCode": "232",
+    "coordinates": {
+      "lat": 38.4192,
+      "lng": 27.1287
+    },
+    "districtCount": 30,
+    "guideUrl": "https://www.memleketimdijital.com/izmir",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=İzmir",
+    "districts": [
+      {
+        "id": 461,
+        "name": "Aliağa",
+        "slug": "aliaga",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/aliaga"
+      },
+      {
+        "id": 462,
+        "name": "Balçova",
+        "slug": "balcova",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/balcova"
+      },
+      {
+        "id": 463,
+        "name": "Bayındır",
+        "slug": "bayindir",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/bayindir"
+      },
+      {
+        "id": 464,
+        "name": "Bayraklı",
+        "slug": "bayrakli",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/bayrakli"
+      },
+      {
+        "id": 465,
+        "name": "Bergama",
+        "slug": "bergama",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/bergama"
+      },
+      {
+        "id": 466,
+        "name": "Beydağ",
+        "slug": "beydag",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/beydag"
+      },
+      {
+        "id": 467,
+        "name": "Bornova",
+        "slug": "bornova",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/bornova"
+      },
+      {
+        "id": 468,
+        "name": "Buca",
+        "slug": "buca",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/buca"
+      },
+      {
+        "id": 469,
+        "name": "Çeşme",
+        "slug": "cesme",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/cesme"
+      },
+      {
+        "id": 470,
+        "name": "Çiğli",
+        "slug": "cigli",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/cigli"
+      },
+      {
+        "id": 471,
+        "name": "Dikili",
+        "slug": "dikili",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/dikili"
+      },
+      {
+        "id": 472,
+        "name": "Foça",
+        "slug": "foca",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/foca"
+      },
+      {
+        "id": 473,
+        "name": "Gaziemir",
+        "slug": "gaziemir",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/gaziemir"
+      },
+      {
+        "id": 474,
+        "name": "Güzelbahçe",
+        "slug": "guzelbahce",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/guzelbahce"
+      },
+      {
+        "id": 475,
+        "name": "Karabağlar",
+        "slug": "karabaglar",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/karabaglar"
+      },
+      {
+        "id": 476,
+        "name": "Karaburun",
+        "slug": "karaburun",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/karaburun"
+      },
+      {
+        "id": 477,
+        "name": "Karşıyaka",
+        "slug": "karsiyaka",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/karsiyaka"
+      },
+      {
+        "id": 478,
+        "name": "Kemalpaşa",
+        "slug": "kemalpasa",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/kemalpasa"
+      },
+      {
+        "id": 479,
+        "name": "Kınık",
+        "slug": "kinik",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/kinik"
+      },
+      {
+        "id": 480,
+        "name": "Kiraz",
+        "slug": "kiraz",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/kiraz"
+      },
+      {
+        "id": 481,
+        "name": "Konak",
+        "slug": "konak",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/konak"
+      },
+      {
+        "id": 482,
+        "name": "Menderes",
+        "slug": "menderes",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/menderes"
+      },
+      {
+        "id": 483,
+        "name": "Menemen",
+        "slug": "menemen",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/menemen"
+      },
+      {
+        "id": 484,
+        "name": "Narlıdere",
+        "slug": "narlidere",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/narlidere"
+      },
+      {
+        "id": 485,
+        "name": "Ödemiş",
+        "slug": "odemis",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/odemis"
+      },
+      {
+        "id": 486,
+        "name": "Seferihisar",
+        "slug": "seferihisar",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/seferihisar"
+      },
+      {
+        "id": 487,
+        "name": "Selçuk",
+        "slug": "selcuk",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/selcuk"
+      },
+      {
+        "id": 488,
+        "name": "Tire",
+        "slug": "tire",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/tire"
+      },
+      {
+        "id": 489,
+        "name": "Torbalı",
+        "slug": "torbali",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/torbali"
+      },
+      {
+        "id": 490,
+        "name": "Urla",
+        "slug": "urla",
+        "guideUrl": "https://www.memleketimdijital.com/izmir/urla"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "plate": "36",
+    "name": "Kars",
+    "slug": "kars",
+    "region": "Doğu Anadolu",
+    "phoneCode": "474",
+    "coordinates": {
+      "lat": 40.6167,
+      "lng": 43.1
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/kars",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kars",
+    "districts": [
+      {
+        "id": 491,
+        "name": "Akyaka",
+        "slug": "akyaka",
+        "guideUrl": "https://www.memleketimdijital.com/kars/akyaka"
+      },
+      {
+        "id": 492,
+        "name": "Arpaçay",
+        "slug": "arpacay",
+        "guideUrl": "https://www.memleketimdijital.com/kars/arpacay"
+      },
+      {
+        "id": 493,
+        "name": "Digor",
+        "slug": "digor",
+        "guideUrl": "https://www.memleketimdijital.com/kars/digor"
+      },
+      {
+        "id": 494,
+        "name": "Kağızman",
+        "slug": "kagizman",
+        "guideUrl": "https://www.memleketimdijital.com/kars/kagizman"
+      },
+      {
+        "id": 495,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/kars/merkez"
+      },
+      {
+        "id": 496,
+        "name": "Sarıkamış",
+        "slug": "sarikamis",
+        "guideUrl": "https://www.memleketimdijital.com/kars/sarikamis"
+      },
+      {
+        "id": 497,
+        "name": "Selim",
+        "slug": "selim",
+        "guideUrl": "https://www.memleketimdijital.com/kars/selim"
+      },
+      {
+        "id": 498,
+        "name": "Susuz",
+        "slug": "susuz",
+        "guideUrl": "https://www.memleketimdijital.com/kars/susuz"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "plate": "37",
+    "name": "Kastamonu",
+    "slug": "kastamonu",
+    "region": "Karadeniz",
+    "phoneCode": "366",
+    "coordinates": {
+      "lat": 41.3887,
+      "lng": 33.7827
+    },
+    "districtCount": 20,
+    "guideUrl": "https://www.memleketimdijital.com/kastamonu",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kastamonu",
+    "districts": [
+      {
+        "id": 499,
+        "name": "Abana",
+        "slug": "abana",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/abana"
+      },
+      {
+        "id": 500,
+        "name": "Ağlı",
+        "slug": "agli",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/agli"
+      },
+      {
+        "id": 501,
+        "name": "Araç",
+        "slug": "arac",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/arac"
+      },
+      {
+        "id": 502,
+        "name": "Azdavay",
+        "slug": "azdavay",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/azdavay"
+      },
+      {
+        "id": 503,
+        "name": "Bozkurt",
+        "slug": "bozkurt",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/bozkurt"
+      },
+      {
+        "id": 504,
+        "name": "Cide",
+        "slug": "cide",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/cide"
+      },
+      {
+        "id": 505,
+        "name": "Çatalzeytin",
+        "slug": "catalzeytin",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/catalzeytin"
+      },
+      {
+        "id": 506,
+        "name": "Daday",
+        "slug": "daday",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/daday"
+      },
+      {
+        "id": 507,
+        "name": "Devrekani",
+        "slug": "devrekani",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/devrekani"
+      },
+      {
+        "id": 508,
+        "name": "Doğanyurt",
+        "slug": "doganyurt",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/doganyurt"
+      },
+      {
+        "id": 509,
+        "name": "Hanönü",
+        "slug": "hanonu",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/hanonu"
+      },
+      {
+        "id": 510,
+        "name": "İhsangazi",
+        "slug": "ihsangazi",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/ihsangazi"
+      },
+      {
+        "id": 511,
+        "name": "İnebolu",
+        "slug": "inebolu",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/inebolu"
+      },
+      {
+        "id": 512,
+        "name": "Küre",
+        "slug": "kure",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/kure"
+      },
+      {
+        "id": 513,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/merkez"
+      },
+      {
+        "id": 514,
+        "name": "Pınarbaşı",
+        "slug": "pinarbasi",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/pinarbasi"
+      },
+      {
+        "id": 515,
+        "name": "Seydiler",
+        "slug": "seydiler",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/seydiler"
+      },
+      {
+        "id": 516,
+        "name": "Şenpazar",
+        "slug": "senpazar",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/senpazar"
+      },
+      {
+        "id": 517,
+        "name": "Taşköprü",
+        "slug": "taskopru",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/taskopru"
+      },
+      {
+        "id": 518,
+        "name": "Tosya",
+        "slug": "tosya",
+        "guideUrl": "https://www.memleketimdijital.com/kastamonu/tosya"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "plate": "38",
+    "name": "Kayseri",
+    "slug": "kayseri",
+    "region": "İç Anadolu",
+    "phoneCode": "352",
+    "coordinates": {
+      "lat": 38.7312,
+      "lng": 35.4787
+    },
+    "districtCount": 16,
+    "guideUrl": "https://www.memleketimdijital.com/kayseri",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kayseri",
+    "districts": [
+      {
+        "id": 519,
+        "name": "Akkışla",
+        "slug": "akkisla",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/akkisla"
+      },
+      {
+        "id": 520,
+        "name": "Bünyan",
+        "slug": "bunyan",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/bunyan"
+      },
+      {
+        "id": 521,
+        "name": "Develi",
+        "slug": "develi",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/develi"
+      },
+      {
+        "id": 522,
+        "name": "Felahiye",
+        "slug": "felahiye",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/felahiye"
+      },
+      {
+        "id": 523,
+        "name": "Hacılar",
+        "slug": "hacilar",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/hacilar"
+      },
+      {
+        "id": 524,
+        "name": "İncesu",
+        "slug": "incesu",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/incesu"
+      },
+      {
+        "id": 525,
+        "name": "Kocasinan",
+        "slug": "kocasinan",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/kocasinan"
+      },
+      {
+        "id": 526,
+        "name": "Melikgazi",
+        "slug": "melikgazi",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/melikgazi"
+      },
+      {
+        "id": 527,
+        "name": "Özvatan",
+        "slug": "ozvatan",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/ozvatan"
+      },
+      {
+        "id": 528,
+        "name": "Pınarbaşı",
+        "slug": "pinarbasi",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/pinarbasi"
+      },
+      {
+        "id": 529,
+        "name": "Sarıoğlan",
+        "slug": "sarioglan",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/sarioglan"
+      },
+      {
+        "id": 530,
+        "name": "Sarız",
+        "slug": "sariz",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/sariz"
+      },
+      {
+        "id": 531,
+        "name": "Talas",
+        "slug": "talas",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/talas"
+      },
+      {
+        "id": 532,
+        "name": "Tomarza",
+        "slug": "tomarza",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/tomarza"
+      },
+      {
+        "id": 533,
+        "name": "Yahyalı",
+        "slug": "yahyali",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/yahyali"
+      },
+      {
+        "id": 534,
+        "name": "Yeşilhisar",
+        "slug": "yesilhisar",
+        "guideUrl": "https://www.memleketimdijital.com/kayseri/yesilhisar"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "plate": "39",
+    "name": "Kırklareli",
+    "slug": "kirklareli",
+    "region": "Marmara",
+    "phoneCode": "288",
+    "coordinates": {
+      "lat": 41.7333,
+      "lng": 27.2167
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/kirklareli",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kırklareli",
+    "districts": [
+      {
+        "id": 535,
+        "name": "Babaeski",
+        "slug": "babaeski",
+        "guideUrl": "https://www.memleketimdijital.com/kirklareli/babaeski"
+      },
+      {
+        "id": 536,
+        "name": "Demirköy",
+        "slug": "demirkoy",
+        "guideUrl": "https://www.memleketimdijital.com/kirklareli/demirkoy"
+      },
+      {
+        "id": 537,
+        "name": "Kofçaz",
+        "slug": "kofcaz",
+        "guideUrl": "https://www.memleketimdijital.com/kirklareli/kofcaz"
+      },
+      {
+        "id": 538,
+        "name": "Lüleburgaz",
+        "slug": "luleburgaz",
+        "guideUrl": "https://www.memleketimdijital.com/kirklareli/luleburgaz"
+      },
+      {
+        "id": 539,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/kirklareli/merkez"
+      },
+      {
+        "id": 540,
+        "name": "Pehlivanköy",
+        "slug": "pehlivankoy",
+        "guideUrl": "https://www.memleketimdijital.com/kirklareli/pehlivankoy"
+      },
+      {
+        "id": 541,
+        "name": "Pınarhisar",
+        "slug": "pinarhisar",
+        "guideUrl": "https://www.memleketimdijital.com/kirklareli/pinarhisar"
+      },
+      {
+        "id": 542,
+        "name": "Vize",
+        "slug": "vize",
+        "guideUrl": "https://www.memleketimdijital.com/kirklareli/vize"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "plate": "40",
+    "name": "Kırşehir",
+    "slug": "kirsehir",
+    "region": "İç Anadolu",
+    "phoneCode": "386",
+    "coordinates": {
+      "lat": 39.1425,
+      "lng": 34.1709
+    },
+    "districtCount": 7,
+    "guideUrl": "https://www.memleketimdijital.com/kirsehir",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kırşehir",
+    "districts": [
+      {
+        "id": 543,
+        "name": "Akçakent",
+        "slug": "akcakent",
+        "guideUrl": "https://www.memleketimdijital.com/kirsehir/akcakent"
+      },
+      {
+        "id": 544,
+        "name": "Akpınar",
+        "slug": "akpinar",
+        "guideUrl": "https://www.memleketimdijital.com/kirsehir/akpinar"
+      },
+      {
+        "id": 545,
+        "name": "Boztepe",
+        "slug": "boztepe",
+        "guideUrl": "https://www.memleketimdijital.com/kirsehir/boztepe"
+      },
+      {
+        "id": 546,
+        "name": "Çiçekdağı",
+        "slug": "cicekdagi",
+        "guideUrl": "https://www.memleketimdijital.com/kirsehir/cicekdagi"
+      },
+      {
+        "id": 547,
+        "name": "Kaman",
+        "slug": "kaman",
+        "guideUrl": "https://www.memleketimdijital.com/kirsehir/kaman"
+      },
+      {
+        "id": 548,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/kirsehir/merkez"
+      },
+      {
+        "id": 549,
+        "name": "Mucur",
+        "slug": "mucur",
+        "guideUrl": "https://www.memleketimdijital.com/kirsehir/mucur"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "plate": "41",
+    "name": "Kocaeli",
+    "slug": "kocaeli",
+    "region": "Marmara",
+    "phoneCode": "262",
+    "coordinates": {
+      "lat": 40.8533,
+      "lng": 29.8815
+    },
+    "districtCount": 12,
+    "guideUrl": "https://www.memleketimdijital.com/kocaeli",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kocaeli",
+    "districts": [
+      {
+        "id": 550,
+        "name": "Başiskele",
+        "slug": "basiskele",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/basiskele"
+      },
+      {
+        "id": 551,
+        "name": "Çayırova",
+        "slug": "cayirova",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/cayirova"
+      },
+      {
+        "id": 552,
+        "name": "Darıca",
+        "slug": "darica",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/darica"
+      },
+      {
+        "id": 553,
+        "name": "Derince",
+        "slug": "derince",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/derince"
+      },
+      {
+        "id": 554,
+        "name": "Dilovası",
+        "slug": "dilovasi",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/dilovasi"
+      },
+      {
+        "id": 555,
+        "name": "Gebze",
+        "slug": "gebze",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/gebze"
+      },
+      {
+        "id": 556,
+        "name": "Gölcük",
+        "slug": "golcuk",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/golcuk"
+      },
+      {
+        "id": 557,
+        "name": "İzmit",
+        "slug": "izmit",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/izmit"
+      },
+      {
+        "id": 558,
+        "name": "Kandıra",
+        "slug": "kandira",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/kandira"
+      },
+      {
+        "id": 559,
+        "name": "Karamürsel",
+        "slug": "karamursel",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/karamursel"
+      },
+      {
+        "id": 560,
+        "name": "Kartepe",
+        "slug": "kartepe",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/kartepe"
+      },
+      {
+        "id": 561,
+        "name": "Körfez",
+        "slug": "korfez",
+        "guideUrl": "https://www.memleketimdijital.com/kocaeli/korfez"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "plate": "42",
+    "name": "Konya",
+    "slug": "konya",
+    "region": "İç Anadolu",
+    "phoneCode": "332",
+    "coordinates": {
+      "lat": 37.8667,
+      "lng": 32.4833
+    },
+    "districtCount": 31,
+    "guideUrl": "https://www.memleketimdijital.com/konya",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Konya",
+    "districts": [
+      {
+        "id": 562,
+        "name": "Ahırlı",
+        "slug": "ahirli",
+        "guideUrl": "https://www.memleketimdijital.com/konya/ahirli"
+      },
+      {
+        "id": 563,
+        "name": "Akören",
+        "slug": "akoren",
+        "guideUrl": "https://www.memleketimdijital.com/konya/akoren"
+      },
+      {
+        "id": 564,
+        "name": "Akşehir",
+        "slug": "aksehir",
+        "guideUrl": "https://www.memleketimdijital.com/konya/aksehir"
+      },
+      {
+        "id": 565,
+        "name": "Altınekin",
+        "slug": "altinekin",
+        "guideUrl": "https://www.memleketimdijital.com/konya/altinekin"
+      },
+      {
+        "id": 566,
+        "name": "Beyşehir",
+        "slug": "beysehir",
+        "guideUrl": "https://www.memleketimdijital.com/konya/beysehir"
+      },
+      {
+        "id": 567,
+        "name": "Bozkır",
+        "slug": "bozkir",
+        "guideUrl": "https://www.memleketimdijital.com/konya/bozkir"
+      },
+      {
+        "id": 568,
+        "name": "Cihanbeyli",
+        "slug": "cihanbeyli",
+        "guideUrl": "https://www.memleketimdijital.com/konya/cihanbeyli"
+      },
+      {
+        "id": 569,
+        "name": "Çeltik",
+        "slug": "celtik",
+        "guideUrl": "https://www.memleketimdijital.com/konya/celtik"
+      },
+      {
+        "id": 570,
+        "name": "Çumra",
+        "slug": "cumra",
+        "guideUrl": "https://www.memleketimdijital.com/konya/cumra"
+      },
+      {
+        "id": 571,
+        "name": "Derbent",
+        "slug": "derbent",
+        "guideUrl": "https://www.memleketimdijital.com/konya/derbent"
+      },
+      {
+        "id": 572,
+        "name": "Derebucak",
+        "slug": "derebucak",
+        "guideUrl": "https://www.memleketimdijital.com/konya/derebucak"
+      },
+      {
+        "id": 573,
+        "name": "Doğanhisar",
+        "slug": "doganhisar",
+        "guideUrl": "https://www.memleketimdijital.com/konya/doganhisar"
+      },
+      {
+        "id": 574,
+        "name": "Emirgazi",
+        "slug": "emirgazi",
+        "guideUrl": "https://www.memleketimdijital.com/konya/emirgazi"
+      },
+      {
+        "id": 575,
+        "name": "Ereğli",
+        "slug": "eregli",
+        "guideUrl": "https://www.memleketimdijital.com/konya/eregli"
+      },
+      {
+        "id": 576,
+        "name": "Güneysınır",
+        "slug": "guneysinir",
+        "guideUrl": "https://www.memleketimdijital.com/konya/guneysinir"
+      },
+      {
+        "id": 577,
+        "name": "Hadim",
+        "slug": "hadim",
+        "guideUrl": "https://www.memleketimdijital.com/konya/hadim"
+      },
+      {
+        "id": 578,
+        "name": "Halkapınar",
+        "slug": "halkapinar",
+        "guideUrl": "https://www.memleketimdijital.com/konya/halkapinar"
+      },
+      {
+        "id": 579,
+        "name": "Hüyük",
+        "slug": "huyuk",
+        "guideUrl": "https://www.memleketimdijital.com/konya/huyuk"
+      },
+      {
+        "id": 580,
+        "name": "Ilgın",
+        "slug": "ilgin",
+        "guideUrl": "https://www.memleketimdijital.com/konya/ilgin"
+      },
+      {
+        "id": 581,
+        "name": "Kadınhanı",
+        "slug": "kadinhani",
+        "guideUrl": "https://www.memleketimdijital.com/konya/kadinhani"
+      },
+      {
+        "id": 582,
+        "name": "Karapınar",
+        "slug": "karapinar",
+        "guideUrl": "https://www.memleketimdijital.com/konya/karapinar"
+      },
+      {
+        "id": 583,
+        "name": "Karatay",
+        "slug": "karatay",
+        "guideUrl": "https://www.memleketimdijital.com/konya/karatay"
+      },
+      {
+        "id": 584,
+        "name": "Kulu",
+        "slug": "kulu",
+        "guideUrl": "https://www.memleketimdijital.com/konya/kulu"
+      },
+      {
+        "id": 585,
+        "name": "Meram",
+        "slug": "meram",
+        "guideUrl": "https://www.memleketimdijital.com/konya/meram"
+      },
+      {
+        "id": 586,
+        "name": "Sarayönü",
+        "slug": "sarayonu",
+        "guideUrl": "https://www.memleketimdijital.com/konya/sarayonu"
+      },
+      {
+        "id": 587,
+        "name": "Selçuklu",
+        "slug": "selcuklu",
+        "guideUrl": "https://www.memleketimdijital.com/konya/selcuklu"
+      },
+      {
+        "id": 588,
+        "name": "Seydişehir",
+        "slug": "seydisehir",
+        "guideUrl": "https://www.memleketimdijital.com/konya/seydisehir"
+      },
+      {
+        "id": 589,
+        "name": "Taşkent",
+        "slug": "taskent",
+        "guideUrl": "https://www.memleketimdijital.com/konya/taskent"
+      },
+      {
+        "id": 590,
+        "name": "Tuzlukçu",
+        "slug": "tuzlukcu",
+        "guideUrl": "https://www.memleketimdijital.com/konya/tuzlukcu"
+      },
+      {
+        "id": 591,
+        "name": "Yalıhüyük",
+        "slug": "yalihuyuk",
+        "guideUrl": "https://www.memleketimdijital.com/konya/yalihuyuk"
+      },
+      {
+        "id": 592,
+        "name": "Yunak",
+        "slug": "yunak",
+        "guideUrl": "https://www.memleketimdijital.com/konya/yunak"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "plate": "43",
+    "name": "Kütahya",
+    "slug": "kutahya",
+    "region": "Ege",
+    "phoneCode": "274",
+    "coordinates": {
+      "lat": 39.4167,
+      "lng": 29.9833
+    },
+    "districtCount": 13,
+    "guideUrl": "https://www.memleketimdijital.com/kutahya",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kütahya",
+    "districts": [
+      {
+        "id": 593,
+        "name": "Altıntaş",
+        "slug": "altintas",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/altintas"
+      },
+      {
+        "id": 594,
+        "name": "Aslanapa",
+        "slug": "aslanapa",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/aslanapa"
+      },
+      {
+        "id": 595,
+        "name": "Çavdarhisar",
+        "slug": "cavdarhisar",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/cavdarhisar"
+      },
+      {
+        "id": 596,
+        "name": "Domaniç",
+        "slug": "domanic",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/domanic"
+      },
+      {
+        "id": 597,
+        "name": "Dumlupınar",
+        "slug": "dumlupinar",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/dumlupinar"
+      },
+      {
+        "id": 598,
+        "name": "Emet",
+        "slug": "emet",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/emet"
+      },
+      {
+        "id": 599,
+        "name": "Gediz",
+        "slug": "gediz",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/gediz"
+      },
+      {
+        "id": 600,
+        "name": "Hisarcık",
+        "slug": "hisarcik",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/hisarcik"
+      },
+      {
+        "id": 601,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/merkez"
+      },
+      {
+        "id": 602,
+        "name": "Pazarlar",
+        "slug": "pazarlar",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/pazarlar"
+      },
+      {
+        "id": 603,
+        "name": "Şaphane",
+        "slug": "saphane",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/saphane"
+      },
+      {
+        "id": 604,
+        "name": "Simav",
+        "slug": "simav",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/simav"
+      },
+      {
+        "id": 605,
+        "name": "Tavşanlı",
+        "slug": "tavsanli",
+        "guideUrl": "https://www.memleketimdijital.com/kutahya/tavsanli"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "plate": "44",
+    "name": "Malatya",
+    "slug": "malatya",
+    "region": "Doğu Anadolu",
+    "phoneCode": "422",
+    "coordinates": {
+      "lat": 38.3552,
+      "lng": 38.3095
+    },
+    "districtCount": 13,
+    "guideUrl": "https://www.memleketimdijital.com/malatya",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Malatya",
+    "districts": [
+      {
+        "id": 606,
+        "name": "Akçadağ",
+        "slug": "akcadag",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/akcadag"
+      },
+      {
+        "id": 607,
+        "name": "Arapgir",
+        "slug": "arapgir",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/arapgir"
+      },
+      {
+        "id": 608,
+        "name": "Arguvan",
+        "slug": "arguvan",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/arguvan"
+      },
+      {
+        "id": 609,
+        "name": "Battalgazi",
+        "slug": "battalgazi",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/battalgazi"
+      },
+      {
+        "id": 610,
+        "name": "Darende",
+        "slug": "darende",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/darende"
+      },
+      {
+        "id": 611,
+        "name": "Doğanşehir",
+        "slug": "dogansehir",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/dogansehir"
+      },
+      {
+        "id": 612,
+        "name": "Doğanyol",
+        "slug": "doganyol",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/doganyol"
+      },
+      {
+        "id": 613,
+        "name": "Hekimhan",
+        "slug": "hekimhan",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/hekimhan"
+      },
+      {
+        "id": 614,
+        "name": "Kale",
+        "slug": "kale",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/kale"
+      },
+      {
+        "id": 615,
+        "name": "Kuluncak",
+        "slug": "kuluncak",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/kuluncak"
+      },
+      {
+        "id": 616,
+        "name": "Pütürge",
+        "slug": "puturge",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/puturge"
+      },
+      {
+        "id": 617,
+        "name": "Yazıhan",
+        "slug": "yazihan",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/yazihan"
+      },
+      {
+        "id": 618,
+        "name": "Yeşilyurt",
+        "slug": "yesilyurt",
+        "guideUrl": "https://www.memleketimdijital.com/malatya/yesilyurt"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "plate": "45",
+    "name": "Manisa",
+    "slug": "manisa",
+    "region": "Ege",
+    "phoneCode": "236",
+    "coordinates": {
+      "lat": 38.6191,
+      "lng": 27.4289
+    },
+    "districtCount": 17,
+    "guideUrl": "https://www.memleketimdijital.com/manisa",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Manisa",
+    "districts": [
+      {
+        "id": 619,
+        "name": "Ahmetli",
+        "slug": "ahmetli",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/ahmetli"
+      },
+      {
+        "id": 620,
+        "name": "Akhisar",
+        "slug": "akhisar",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/akhisar"
+      },
+      {
+        "id": 621,
+        "name": "Alaşehir",
+        "slug": "alasehir",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/alasehir"
+      },
+      {
+        "id": 622,
+        "name": "Demirci",
+        "slug": "demirci",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/demirci"
+      },
+      {
+        "id": 623,
+        "name": "Gölmarmara",
+        "slug": "golmarmara",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/golmarmara"
+      },
+      {
+        "id": 624,
+        "name": "Gördes",
+        "slug": "gordes",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/gordes"
+      },
+      {
+        "id": 625,
+        "name": "Kırkağaç",
+        "slug": "kirkagac",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/kirkagac"
+      },
+      {
+        "id": 626,
+        "name": "Köprübaşı",
+        "slug": "koprubasi",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/koprubasi"
+      },
+      {
+        "id": 627,
+        "name": "Kula",
+        "slug": "kula",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/kula"
+      },
+      {
+        "id": 628,
+        "name": "Salihli",
+        "slug": "salihli",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/salihli"
+      },
+      {
+        "id": 629,
+        "name": "Sarıgöl",
+        "slug": "sarigol",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/sarigol"
+      },
+      {
+        "id": 630,
+        "name": "Saruhanlı",
+        "slug": "saruhanli",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/saruhanli"
+      },
+      {
+        "id": 631,
+        "name": "Selendi",
+        "slug": "selendi",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/selendi"
+      },
+      {
+        "id": 632,
+        "name": "Soma",
+        "slug": "soma",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/soma"
+      },
+      {
+        "id": 633,
+        "name": "Şehzadeler",
+        "slug": "sehzadeler",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/sehzadeler"
+      },
+      {
+        "id": 634,
+        "name": "Turgutlu",
+        "slug": "turgutlu",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/turgutlu"
+      },
+      {
+        "id": 635,
+        "name": "Yunusemre",
+        "slug": "yunusemre",
+        "guideUrl": "https://www.memleketimdijital.com/manisa/yunusemre"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "plate": "46",
+    "name": "Kahramanmaraş",
+    "slug": "kahramanmaras",
+    "region": "Akdeniz",
+    "phoneCode": "344",
+    "coordinates": {
+      "lat": 37.5858,
+      "lng": 36.9371
+    },
+    "districtCount": 11,
+    "guideUrl": "https://www.memleketimdijital.com/kahramanmaras",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kahramanmaraş",
+    "districts": [
+      {
+        "id": 636,
+        "name": "Afşin",
+        "slug": "afsin",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/afsin"
+      },
+      {
+        "id": 637,
+        "name": "Andırın",
+        "slug": "andirin",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/andirin"
+      },
+      {
+        "id": 638,
+        "name": "Çağlayancerit",
+        "slug": "caglayancerit",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/caglayancerit"
+      },
+      {
+        "id": 639,
+        "name": "Dulkadiroğlu",
+        "slug": "dulkadiroglu",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/dulkadiroglu"
+      },
+      {
+        "id": 640,
+        "name": "Ekinözü",
+        "slug": "ekinozu",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/ekinozu"
+      },
+      {
+        "id": 641,
+        "name": "Elbistan",
+        "slug": "elbistan",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/elbistan"
+      },
+      {
+        "id": 642,
+        "name": "Göksun",
+        "slug": "goksun",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/goksun"
+      },
+      {
+        "id": 643,
+        "name": "Nurhak",
+        "slug": "nurhak",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/nurhak"
+      },
+      {
+        "id": 644,
+        "name": "Onikişubat",
+        "slug": "onikisubat",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/onikisubat"
+      },
+      {
+        "id": 645,
+        "name": "Pazarcık",
+        "slug": "pazarcik",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/pazarcik"
+      },
+      {
+        "id": 646,
+        "name": "Türkoğlu",
+        "slug": "turkoglu",
+        "guideUrl": "https://www.memleketimdijital.com/kahramanmaras/turkoglu"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "plate": "47",
+    "name": "Mardin",
+    "slug": "mardin",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "482",
+    "coordinates": {
+      "lat": 37.3212,
+      "lng": 40.7245
+    },
+    "districtCount": 10,
+    "guideUrl": "https://www.memleketimdijital.com/mardin",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Mardin",
+    "districts": [
+      {
+        "id": 647,
+        "name": "Artuklu",
+        "slug": "artuklu",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/artuklu"
+      },
+      {
+        "id": 648,
+        "name": "Dargeçit",
+        "slug": "dargecit",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/dargecit"
+      },
+      {
+        "id": 649,
+        "name": "Derik",
+        "slug": "derik",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/derik"
+      },
+      {
+        "id": 650,
+        "name": "Kızıltepe",
+        "slug": "kiziltepe",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/kiziltepe"
+      },
+      {
+        "id": 651,
+        "name": "Mazıdağı",
+        "slug": "mazidagi",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/mazidagi"
+      },
+      {
+        "id": 652,
+        "name": "Midyat",
+        "slug": "midyat",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/midyat"
+      },
+      {
+        "id": 653,
+        "name": "Nusaybin",
+        "slug": "nusaybin",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/nusaybin"
+      },
+      {
+        "id": 654,
+        "name": "Ömerli",
+        "slug": "omerli",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/omerli"
+      },
+      {
+        "id": 655,
+        "name": "Savur",
+        "slug": "savur",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/savur"
+      },
+      {
+        "id": 656,
+        "name": "Yeşilli",
+        "slug": "yesilli",
+        "guideUrl": "https://www.memleketimdijital.com/mardin/yesilli"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "plate": "48",
+    "name": "Muğla",
+    "slug": "mugla",
+    "region": "Ege",
+    "phoneCode": "252",
+    "coordinates": {
+      "lat": 37.2153,
+      "lng": 28.3636
+    },
+    "districtCount": 13,
+    "guideUrl": "https://www.memleketimdijital.com/mugla",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Muğla",
+    "districts": [
+      {
+        "id": 657,
+        "name": "Bodrum",
+        "slug": "bodrum",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/bodrum"
+      },
+      {
+        "id": 658,
+        "name": "Dalaman",
+        "slug": "dalaman",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/dalaman"
+      },
+      {
+        "id": 659,
+        "name": "Datça",
+        "slug": "datca",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/datca"
+      },
+      {
+        "id": 660,
+        "name": "Fethiye",
+        "slug": "fethiye",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/fethiye"
+      },
+      {
+        "id": 661,
+        "name": "Kavaklıdere",
+        "slug": "kavaklidere",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/kavaklidere"
+      },
+      {
+        "id": 662,
+        "name": "Köyceğiz",
+        "slug": "koycegiz",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/koycegiz"
+      },
+      {
+        "id": 663,
+        "name": "Marmaris",
+        "slug": "marmaris",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/marmaris"
+      },
+      {
+        "id": 664,
+        "name": "Menteşe",
+        "slug": "mentese",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/mentese"
+      },
+      {
+        "id": 665,
+        "name": "Milas",
+        "slug": "milas",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/milas"
+      },
+      {
+        "id": 666,
+        "name": "Ortaca",
+        "slug": "ortaca",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/ortaca"
+      },
+      {
+        "id": 667,
+        "name": "Seydikemer",
+        "slug": "seydikemer",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/seydikemer"
+      },
+      {
+        "id": 668,
+        "name": "Ula",
+        "slug": "ula",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/ula"
+      },
+      {
+        "id": 669,
+        "name": "Yatağan",
+        "slug": "yatagan",
+        "guideUrl": "https://www.memleketimdijital.com/mugla/yatagan"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "plate": "49",
+    "name": "Muş",
+    "slug": "mus",
+    "region": "Doğu Anadolu",
+    "phoneCode": "436",
+    "coordinates": {
+      "lat": 38.9462,
+      "lng": 41.7539
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/mus",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Muş",
+    "districts": [
+      {
+        "id": 670,
+        "name": "Bulanık",
+        "slug": "bulanik",
+        "guideUrl": "https://www.memleketimdijital.com/mus/bulanik"
+      },
+      {
+        "id": 671,
+        "name": "Hasköy",
+        "slug": "haskoy",
+        "guideUrl": "https://www.memleketimdijital.com/mus/haskoy"
+      },
+      {
+        "id": 672,
+        "name": "Korkut",
+        "slug": "korkut",
+        "guideUrl": "https://www.memleketimdijital.com/mus/korkut"
+      },
+      {
+        "id": 673,
+        "name": "Malazgirt",
+        "slug": "malazgirt",
+        "guideUrl": "https://www.memleketimdijital.com/mus/malazgirt"
+      },
+      {
+        "id": 674,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/mus/merkez"
+      },
+      {
+        "id": 675,
+        "name": "Varto",
+        "slug": "varto",
+        "guideUrl": "https://www.memleketimdijital.com/mus/varto"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "plate": "50",
+    "name": "Nevşehir",
+    "slug": "nevsehir",
+    "region": "İç Anadolu",
+    "phoneCode": "384",
+    "coordinates": {
+      "lat": 38.6939,
+      "lng": 34.6857
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/nevsehir",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Nevşehir",
+    "districts": [
+      {
+        "id": 676,
+        "name": "Acıgöl",
+        "slug": "acigol",
+        "guideUrl": "https://www.memleketimdijital.com/nevsehir/acigol"
+      },
+      {
+        "id": 677,
+        "name": "Avanos",
+        "slug": "avanos",
+        "guideUrl": "https://www.memleketimdijital.com/nevsehir/avanos"
+      },
+      {
+        "id": 678,
+        "name": "Derinkuyu",
+        "slug": "derinkuyu",
+        "guideUrl": "https://www.memleketimdijital.com/nevsehir/derinkuyu"
+      },
+      {
+        "id": 679,
+        "name": "Gülşehir",
+        "slug": "gulsehir",
+        "guideUrl": "https://www.memleketimdijital.com/nevsehir/gulsehir"
+      },
+      {
+        "id": 680,
+        "name": "Hacıbektaş",
+        "slug": "hacibektas",
+        "guideUrl": "https://www.memleketimdijital.com/nevsehir/hacibektas"
+      },
+      {
+        "id": 681,
+        "name": "Kozaklı",
+        "slug": "kozakli",
+        "guideUrl": "https://www.memleketimdijital.com/nevsehir/kozakli"
+      },
+      {
+        "id": 682,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/nevsehir/merkez"
+      },
+      {
+        "id": 683,
+        "name": "Ürgüp",
+        "slug": "urgup",
+        "guideUrl": "https://www.memleketimdijital.com/nevsehir/urgup"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "plate": "51",
+    "name": "Niğde",
+    "slug": "nigde",
+    "region": "İç Anadolu",
+    "phoneCode": "388",
+    "coordinates": {
+      "lat": 37.9667,
+      "lng": 34.6833
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/nigde",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Niğde",
+    "districts": [
+      {
+        "id": 684,
+        "name": "Altunhisar",
+        "slug": "altunhisar",
+        "guideUrl": "https://www.memleketimdijital.com/nigde/altunhisar"
+      },
+      {
+        "id": 685,
+        "name": "Bor",
+        "slug": "bor",
+        "guideUrl": "https://www.memleketimdijital.com/nigde/bor"
+      },
+      {
+        "id": 686,
+        "name": "Çamardı",
+        "slug": "camardi",
+        "guideUrl": "https://www.memleketimdijital.com/nigde/camardi"
+      },
+      {
+        "id": 687,
+        "name": "Çiftlik",
+        "slug": "ciftlik",
+        "guideUrl": "https://www.memleketimdijital.com/nigde/ciftlik"
+      },
+      {
+        "id": 688,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/nigde/merkez"
+      },
+      {
+        "id": 689,
+        "name": "Ulukışla",
+        "slug": "ulukisla",
+        "guideUrl": "https://www.memleketimdijital.com/nigde/ulukisla"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "plate": "52",
+    "name": "Ordu",
+    "slug": "ordu",
+    "region": "Karadeniz",
+    "phoneCode": "452",
+    "coordinates": {
+      "lat": 40.9839,
+      "lng": 37.8764
+    },
+    "districtCount": 19,
+    "guideUrl": "https://www.memleketimdijital.com/ordu",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Ordu",
+    "districts": [
+      {
+        "id": 690,
+        "name": "Akkuş",
+        "slug": "akkus",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/akkus"
+      },
+      {
+        "id": 691,
+        "name": "Altınordu",
+        "slug": "altinordu",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/altinordu"
+      },
+      {
+        "id": 692,
+        "name": "Aybastı",
+        "slug": "aybasti",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/aybasti"
+      },
+      {
+        "id": 693,
+        "name": "Çamaş",
+        "slug": "camas",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/camas"
+      },
+      {
+        "id": 694,
+        "name": "Çatalpınar",
+        "slug": "catalpinar",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/catalpinar"
+      },
+      {
+        "id": 695,
+        "name": "Çaybaşı",
+        "slug": "caybasi",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/caybasi"
+      },
+      {
+        "id": 696,
+        "name": "Fatsa",
+        "slug": "fatsa",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/fatsa"
+      },
+      {
+        "id": 697,
+        "name": "Gölköy",
+        "slug": "golkoy",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/golkoy"
+      },
+      {
+        "id": 698,
+        "name": "Gülyalı",
+        "slug": "gulyali",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/gulyali"
+      },
+      {
+        "id": 699,
+        "name": "Gürgentepe",
+        "slug": "gurgentepe",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/gurgentepe"
+      },
+      {
+        "id": 700,
+        "name": "İkizce",
+        "slug": "ikizce",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/ikizce"
+      },
+      {
+        "id": 701,
+        "name": "Kabadüz",
+        "slug": "kabaduz",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/kabaduz"
+      },
+      {
+        "id": 702,
+        "name": "Kabataş",
+        "slug": "kabatas",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/kabatas"
+      },
+      {
+        "id": 703,
+        "name": "Korgan",
+        "slug": "korgan",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/korgan"
+      },
+      {
+        "id": 704,
+        "name": "Kumru",
+        "slug": "kumru",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/kumru"
+      },
+      {
+        "id": 705,
+        "name": "Mesudiye",
+        "slug": "mesudiye",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/mesudiye"
+      },
+      {
+        "id": 706,
+        "name": "Perşembe",
+        "slug": "persembe",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/persembe"
+      },
+      {
+        "id": 707,
+        "name": "Ulubey",
+        "slug": "ulubey",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/ulubey"
+      },
+      {
+        "id": 708,
+        "name": "Ünye",
+        "slug": "unye",
+        "guideUrl": "https://www.memleketimdijital.com/ordu/unye"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "plate": "53",
+    "name": "Rize",
+    "slug": "rize",
+    "region": "Karadeniz",
+    "phoneCode": "464",
+    "coordinates": {
+      "lat": 41.0201,
+      "lng": 40.5234
+    },
+    "districtCount": 12,
+    "guideUrl": "https://www.memleketimdijital.com/rize",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Rize",
+    "districts": [
+      {
+        "id": 709,
+        "name": "Ardeşen",
+        "slug": "ardesen",
+        "guideUrl": "https://www.memleketimdijital.com/rize/ardesen"
+      },
+      {
+        "id": 710,
+        "name": "Çamlıhemşin",
+        "slug": "camlihemsin",
+        "guideUrl": "https://www.memleketimdijital.com/rize/camlihemsin"
+      },
+      {
+        "id": 711,
+        "name": "Çayeli",
+        "slug": "cayeli",
+        "guideUrl": "https://www.memleketimdijital.com/rize/cayeli"
+      },
+      {
+        "id": 712,
+        "name": "Derepazarı",
+        "slug": "derepazari",
+        "guideUrl": "https://www.memleketimdijital.com/rize/derepazari"
+      },
+      {
+        "id": 713,
+        "name": "Fındıklı",
+        "slug": "findikli",
+        "guideUrl": "https://www.memleketimdijital.com/rize/findikli"
+      },
+      {
+        "id": 714,
+        "name": "Güneysu",
+        "slug": "guneysu",
+        "guideUrl": "https://www.memleketimdijital.com/rize/guneysu"
+      },
+      {
+        "id": 715,
+        "name": "Hemşin",
+        "slug": "hemsin",
+        "guideUrl": "https://www.memleketimdijital.com/rize/hemsin"
+      },
+      {
+        "id": 716,
+        "name": "İkizdere",
+        "slug": "ikizdere",
+        "guideUrl": "https://www.memleketimdijital.com/rize/ikizdere"
+      },
+      {
+        "id": 717,
+        "name": "İyidere",
+        "slug": "iyidere",
+        "guideUrl": "https://www.memleketimdijital.com/rize/iyidere"
+      },
+      {
+        "id": 718,
+        "name": "Kalkandere",
+        "slug": "kalkandere",
+        "guideUrl": "https://www.memleketimdijital.com/rize/kalkandere"
+      },
+      {
+        "id": 719,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/rize/merkez"
+      },
+      {
+        "id": 720,
+        "name": "Pazar",
+        "slug": "pazar",
+        "guideUrl": "https://www.memleketimdijital.com/rize/pazar"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "plate": "54",
+    "name": "Sakarya",
+    "slug": "sakarya",
+    "region": "Marmara",
+    "phoneCode": "264",
+    "coordinates": {
+      "lat": 40.7569,
+      "lng": 30.3783
+    },
+    "districtCount": 16,
+    "guideUrl": "https://www.memleketimdijital.com/sakarya",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Sakarya",
+    "districts": [
+      {
+        "id": 721,
+        "name": "Adapazarı",
+        "slug": "adapazari",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/adapazari"
+      },
+      {
+        "id": 722,
+        "name": "Akyazı",
+        "slug": "akyazi",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/akyazi"
+      },
+      {
+        "id": 723,
+        "name": "Arifiye",
+        "slug": "arifiye",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/arifiye"
+      },
+      {
+        "id": 724,
+        "name": "Erenler",
+        "slug": "erenler",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/erenler"
+      },
+      {
+        "id": 725,
+        "name": "Ferizli",
+        "slug": "ferizli",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/ferizli"
+      },
+      {
+        "id": 726,
+        "name": "Geyve",
+        "slug": "geyve",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/geyve"
+      },
+      {
+        "id": 727,
+        "name": "Hendek",
+        "slug": "hendek",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/hendek"
+      },
+      {
+        "id": 728,
+        "name": "Karapürçek",
+        "slug": "karapurcek",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/karapurcek"
+      },
+      {
+        "id": 729,
+        "name": "Karasu",
+        "slug": "karasu",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/karasu"
+      },
+      {
+        "id": 730,
+        "name": "Kaynarca",
+        "slug": "kaynarca",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/kaynarca"
+      },
+      {
+        "id": 731,
+        "name": "Kocaali",
+        "slug": "kocaali",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/kocaali"
+      },
+      {
+        "id": 732,
+        "name": "Pamukova",
+        "slug": "pamukova",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/pamukova"
+      },
+      {
+        "id": 733,
+        "name": "Sapanca",
+        "slug": "sapanca",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/sapanca"
+      },
+      {
+        "id": 734,
+        "name": "Serdivan",
+        "slug": "serdivan",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/serdivan"
+      },
+      {
+        "id": 735,
+        "name": "Söğütlü",
+        "slug": "sogutlu",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/sogutlu"
+      },
+      {
+        "id": 736,
+        "name": "Taraklı",
+        "slug": "tarakli",
+        "guideUrl": "https://www.memleketimdijital.com/sakarya/tarakli"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "plate": "55",
+    "name": "Samsun",
+    "slug": "samsun",
+    "region": "Karadeniz",
+    "phoneCode": "362",
+    "coordinates": {
+      "lat": 41.2928,
+      "lng": 36.3313
+    },
+    "districtCount": 17,
+    "guideUrl": "https://www.memleketimdijital.com/samsun",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Samsun",
+    "districts": [
+      {
+        "id": 737,
+        "name": "19 Mayıs",
+        "slug": "19-mayis",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/19-mayis"
+      },
+      {
+        "id": 738,
+        "name": "Alaçam",
+        "slug": "alacam",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/alacam"
+      },
+      {
+        "id": 739,
+        "name": "Asarcık",
+        "slug": "asarcik",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/asarcik"
+      },
+      {
+        "id": 740,
+        "name": "Atakum",
+        "slug": "atakum",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/atakum"
+      },
+      {
+        "id": 741,
+        "name": "Ayvacık",
+        "slug": "ayvacik",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/ayvacik"
+      },
+      {
+        "id": 742,
+        "name": "Bafra",
+        "slug": "bafra",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/bafra"
+      },
+      {
+        "id": 743,
+        "name": "Canik",
+        "slug": "canik",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/canik"
+      },
+      {
+        "id": 744,
+        "name": "Çarşamba",
+        "slug": "carsamba",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/carsamba"
+      },
+      {
+        "id": 745,
+        "name": "Havza",
+        "slug": "havza",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/havza"
+      },
+      {
+        "id": 746,
+        "name": "İlkadım",
+        "slug": "ilkadim",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/ilkadim"
+      },
+      {
+        "id": 747,
+        "name": "Kavak",
+        "slug": "kavak",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/kavak"
+      },
+      {
+        "id": 748,
+        "name": "Ladik",
+        "slug": "ladik",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/ladik"
+      },
+      {
+        "id": 749,
+        "name": "Salıpazarı",
+        "slug": "salipazari",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/salipazari"
+      },
+      {
+        "id": 750,
+        "name": "Tekkeköy",
+        "slug": "tekkekoy",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/tekkekoy"
+      },
+      {
+        "id": 751,
+        "name": "Terme",
+        "slug": "terme",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/terme"
+      },
+      {
+        "id": 752,
+        "name": "Vezirköprü",
+        "slug": "vezirkopru",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/vezirkopru"
+      },
+      {
+        "id": 753,
+        "name": "Yakakent",
+        "slug": "yakakent",
+        "guideUrl": "https://www.memleketimdijital.com/samsun/yakakent"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "plate": "56",
+    "name": "Siirt",
+    "slug": "siirt",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "484",
+    "coordinates": {
+      "lat": 37.9333,
+      "lng": 41.95
+    },
+    "districtCount": 7,
+    "guideUrl": "https://www.memleketimdijital.com/siirt",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Siirt",
+    "districts": [
+      {
+        "id": 754,
+        "name": "Baykan",
+        "slug": "baykan",
+        "guideUrl": "https://www.memleketimdijital.com/siirt/baykan"
+      },
+      {
+        "id": 755,
+        "name": "Eruh",
+        "slug": "eruh",
+        "guideUrl": "https://www.memleketimdijital.com/siirt/eruh"
+      },
+      {
+        "id": 756,
+        "name": "Kurtalan",
+        "slug": "kurtalan",
+        "guideUrl": "https://www.memleketimdijital.com/siirt/kurtalan"
+      },
+      {
+        "id": 757,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/siirt/merkez"
+      },
+      {
+        "id": 758,
+        "name": "Pervari",
+        "slug": "pervari",
+        "guideUrl": "https://www.memleketimdijital.com/siirt/pervari"
+      },
+      {
+        "id": 759,
+        "name": "Şirvan",
+        "slug": "sirvan",
+        "guideUrl": "https://www.memleketimdijital.com/siirt/sirvan"
+      },
+      {
+        "id": 760,
+        "name": "Tillo",
+        "slug": "tillo",
+        "guideUrl": "https://www.memleketimdijital.com/siirt/tillo"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "plate": "57",
+    "name": "Sinop",
+    "slug": "sinop",
+    "region": "Karadeniz",
+    "phoneCode": "368",
+    "coordinates": {
+      "lat": 42.0231,
+      "lng": 35.1531
+    },
+    "districtCount": 9,
+    "guideUrl": "https://www.memleketimdijital.com/sinop",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Sinop",
+    "districts": [
+      {
+        "id": 761,
+        "name": "Ayancık",
+        "slug": "ayancik",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/ayancik"
+      },
+      {
+        "id": 762,
+        "name": "Boyabat",
+        "slug": "boyabat",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/boyabat"
+      },
+      {
+        "id": 763,
+        "name": "Dikmen",
+        "slug": "dikmen",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/dikmen"
+      },
+      {
+        "id": 764,
+        "name": "Durağan",
+        "slug": "duragan",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/duragan"
+      },
+      {
+        "id": 765,
+        "name": "Erfelek",
+        "slug": "erfelek",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/erfelek"
+      },
+      {
+        "id": 766,
+        "name": "Gerze",
+        "slug": "gerze",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/gerze"
+      },
+      {
+        "id": 767,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/merkez"
+      },
+      {
+        "id": 768,
+        "name": "Saraydüzü",
+        "slug": "sarayduzu",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/sarayduzu"
+      },
+      {
+        "id": 769,
+        "name": "Türkeli",
+        "slug": "turkeli",
+        "guideUrl": "https://www.memleketimdijital.com/sinop/turkeli"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "plate": "58",
+    "name": "Sivas",
+    "slug": "sivas",
+    "region": "İç Anadolu",
+    "phoneCode": "346",
+    "coordinates": {
+      "lat": 39.7477,
+      "lng": 37.0179
+    },
+    "districtCount": 17,
+    "guideUrl": "https://www.memleketimdijital.com/sivas",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Sivas",
+    "districts": [
+      {
+        "id": 770,
+        "name": "Akıncılar",
+        "slug": "akincilar",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/akincilar"
+      },
+      {
+        "id": 771,
+        "name": "Altınyayla",
+        "slug": "altinyayla",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/altinyayla"
+      },
+      {
+        "id": 772,
+        "name": "Divriği",
+        "slug": "divrigi",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/divrigi"
+      },
+      {
+        "id": 773,
+        "name": "Doğanşar",
+        "slug": "dogansar",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/dogansar"
+      },
+      {
+        "id": 774,
+        "name": "Gemerek",
+        "slug": "gemerek",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/gemerek"
+      },
+      {
+        "id": 775,
+        "name": "Gölova",
+        "slug": "golova",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/golova"
+      },
+      {
+        "id": 776,
+        "name": "Gürün",
+        "slug": "gurun",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/gurun"
+      },
+      {
+        "id": 777,
+        "name": "Hafik",
+        "slug": "hafik",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/hafik"
+      },
+      {
+        "id": 778,
+        "name": "İmranlı",
+        "slug": "imranli",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/imranli"
+      },
+      {
+        "id": 779,
+        "name": "Kangal",
+        "slug": "kangal",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/kangal"
+      },
+      {
+        "id": 780,
+        "name": "Koyulhisar",
+        "slug": "koyulhisar",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/koyulhisar"
+      },
+      {
+        "id": 781,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/merkez"
+      },
+      {
+        "id": 782,
+        "name": "Suşehri",
+        "slug": "susehri",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/susehri"
+      },
+      {
+        "id": 783,
+        "name": "Şarkışla",
+        "slug": "sarkisla",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/sarkisla"
+      },
+      {
+        "id": 784,
+        "name": "Ulaş",
+        "slug": "ulas",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/ulas"
+      },
+      {
+        "id": 785,
+        "name": "Yıldızeli",
+        "slug": "yildizeli",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/yildizeli"
+      },
+      {
+        "id": 786,
+        "name": "Zara",
+        "slug": "zara",
+        "guideUrl": "https://www.memleketimdijital.com/sivas/zara"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "plate": "59",
+    "name": "Tekirdağ",
+    "slug": "tekirdag",
+    "region": "Marmara",
+    "phoneCode": "282",
+    "coordinates": {
+      "lat": 40.9833,
+      "lng": 27.5167
+    },
+    "districtCount": 11,
+    "guideUrl": "https://www.memleketimdijital.com/tekirdag",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Tekirdağ",
+    "districts": [
+      {
+        "id": 787,
+        "name": "Çerkezköy",
+        "slug": "cerkezkoy",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/cerkezkoy"
+      },
+      {
+        "id": 788,
+        "name": "Çorlu",
+        "slug": "corlu",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/corlu"
+      },
+      {
+        "id": 789,
+        "name": "Ergene",
+        "slug": "ergene",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/ergene"
+      },
+      {
+        "id": 790,
+        "name": "Hayrabolu",
+        "slug": "hayrabolu",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/hayrabolu"
+      },
+      {
+        "id": 791,
+        "name": "Kapaklı",
+        "slug": "kapakli",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/kapakli"
+      },
+      {
+        "id": 792,
+        "name": "Malkara",
+        "slug": "malkara",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/malkara"
+      },
+      {
+        "id": 793,
+        "name": "Marmaraereğlisi",
+        "slug": "marmaraereglisi",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/marmaraereglisi"
+      },
+      {
+        "id": 794,
+        "name": "Muratlı",
+        "slug": "muratli",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/muratli"
+      },
+      {
+        "id": 795,
+        "name": "Saray",
+        "slug": "saray",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/saray"
+      },
+      {
+        "id": 796,
+        "name": "Süleymanpaşa",
+        "slug": "suleymanpasa",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/suleymanpasa"
+      },
+      {
+        "id": 797,
+        "name": "Şarköy",
+        "slug": "sarkoy",
+        "guideUrl": "https://www.memleketimdijital.com/tekirdag/sarkoy"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "plate": "60",
+    "name": "Tokat",
+    "slug": "tokat",
+    "region": "Karadeniz",
+    "phoneCode": "356",
+    "coordinates": {
+      "lat": 40.3167,
+      "lng": 36.55
+    },
+    "districtCount": 12,
+    "guideUrl": "https://www.memleketimdijital.com/tokat",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Tokat",
+    "districts": [
+      {
+        "id": 798,
+        "name": "Almus",
+        "slug": "almus",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/almus"
+      },
+      {
+        "id": 799,
+        "name": "Artova",
+        "slug": "artova",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/artova"
+      },
+      {
+        "id": 800,
+        "name": "Başçiftlik",
+        "slug": "basciftlik",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/basciftlik"
+      },
+      {
+        "id": 801,
+        "name": "Erbaa",
+        "slug": "erbaa",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/erbaa"
+      },
+      {
+        "id": 802,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/merkez"
+      },
+      {
+        "id": 803,
+        "name": "Niksar",
+        "slug": "niksar",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/niksar"
+      },
+      {
+        "id": 804,
+        "name": "Pazar",
+        "slug": "pazar",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/pazar"
+      },
+      {
+        "id": 805,
+        "name": "Reşadiye",
+        "slug": "resadiye",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/resadiye"
+      },
+      {
+        "id": 806,
+        "name": "Sulusaray",
+        "slug": "sulusaray",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/sulusaray"
+      },
+      {
+        "id": 807,
+        "name": "Turhal",
+        "slug": "turhal",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/turhal"
+      },
+      {
+        "id": 808,
+        "name": "Yeşilyurt",
+        "slug": "yesilyurt",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/yesilyurt"
+      },
+      {
+        "id": 809,
+        "name": "Zile",
+        "slug": "zile",
+        "guideUrl": "https://www.memleketimdijital.com/tokat/zile"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "plate": "61",
+    "name": "Trabzon",
+    "slug": "trabzon",
+    "region": "Karadeniz",
+    "phoneCode": "462",
+    "coordinates": {
+      "lat": 41.0015,
+      "lng": 39.7178
+    },
+    "districtCount": 18,
+    "guideUrl": "https://www.memleketimdijital.com/trabzon",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Trabzon",
+    "districts": [
+      {
+        "id": 810,
+        "name": "Akçaabat",
+        "slug": "akcaabat",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/akcaabat"
+      },
+      {
+        "id": 811,
+        "name": "Araklı",
+        "slug": "arakli",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/arakli"
+      },
+      {
+        "id": 812,
+        "name": "Arsin",
+        "slug": "arsin",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/arsin"
+      },
+      {
+        "id": 813,
+        "name": "Beşikdüzü",
+        "slug": "besikduzu",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/besikduzu"
+      },
+      {
+        "id": 814,
+        "name": "Çarşıbaşı",
+        "slug": "carsibasi",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/carsibasi"
+      },
+      {
+        "id": 815,
+        "name": "Çaykara",
+        "slug": "caykara",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/caykara"
+      },
+      {
+        "id": 816,
+        "name": "Dernekpazarı",
+        "slug": "dernekpazari",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/dernekpazari"
+      },
+      {
+        "id": 817,
+        "name": "Düzköy",
+        "slug": "duzkoy",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/duzkoy"
+      },
+      {
+        "id": 818,
+        "name": "Hayrat",
+        "slug": "hayrat",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/hayrat"
+      },
+      {
+        "id": 819,
+        "name": "Köprübaşı",
+        "slug": "koprubasi",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/koprubasi"
+      },
+      {
+        "id": 820,
+        "name": "Maçka",
+        "slug": "macka",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/macka"
+      },
+      {
+        "id": 821,
+        "name": "Of",
+        "slug": "of",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/of"
+      },
+      {
+        "id": 822,
+        "name": "Ortahisar",
+        "slug": "ortahisar",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/ortahisar"
+      },
+      {
+        "id": 823,
+        "name": "Sürmene",
+        "slug": "surmene",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/surmene"
+      },
+      {
+        "id": 824,
+        "name": "Şalpazarı",
+        "slug": "salpazari",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/salpazari"
+      },
+      {
+        "id": 825,
+        "name": "Tonya",
+        "slug": "tonya",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/tonya"
+      },
+      {
+        "id": 826,
+        "name": "Vakfıkebir",
+        "slug": "vakfikebir",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/vakfikebir"
+      },
+      {
+        "id": 827,
+        "name": "Yomra",
+        "slug": "yomra",
+        "guideUrl": "https://www.memleketimdijital.com/trabzon/yomra"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "plate": "62",
+    "name": "Tunceli",
+    "slug": "tunceli",
+    "region": "Doğu Anadolu",
+    "phoneCode": "428",
+    "coordinates": {
+      "lat": 39.1079,
+      "lng": 39.5401
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/tunceli",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Tunceli",
+    "districts": [
+      {
+        "id": 828,
+        "name": "Çemişgezek",
+        "slug": "cemisgezek",
+        "guideUrl": "https://www.memleketimdijital.com/tunceli/cemisgezek"
+      },
+      {
+        "id": 829,
+        "name": "Hozat",
+        "slug": "hozat",
+        "guideUrl": "https://www.memleketimdijital.com/tunceli/hozat"
+      },
+      {
+        "id": 830,
+        "name": "Mazgirt",
+        "slug": "mazgirt",
+        "guideUrl": "https://www.memleketimdijital.com/tunceli/mazgirt"
+      },
+      {
+        "id": 831,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/tunceli/merkez"
+      },
+      {
+        "id": 832,
+        "name": "Nazımiye",
+        "slug": "nazimiye",
+        "guideUrl": "https://www.memleketimdijital.com/tunceli/nazimiye"
+      },
+      {
+        "id": 833,
+        "name": "Ovacık",
+        "slug": "ovacik",
+        "guideUrl": "https://www.memleketimdijital.com/tunceli/ovacik"
+      },
+      {
+        "id": 834,
+        "name": "Pertek",
+        "slug": "pertek",
+        "guideUrl": "https://www.memleketimdijital.com/tunceli/pertek"
+      },
+      {
+        "id": 835,
+        "name": "Pülümür",
+        "slug": "pulumur",
+        "guideUrl": "https://www.memleketimdijital.com/tunceli/pulumur"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "plate": "63",
+    "name": "Şanlıurfa",
+    "slug": "sanliurfa",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "414",
+    "coordinates": {
+      "lat": 37.1591,
+      "lng": 38.7969
+    },
+    "districtCount": 13,
+    "guideUrl": "https://www.memleketimdijital.com/sanliurfa",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Şanlıurfa",
+    "districts": [
+      {
+        "id": 836,
+        "name": "Akçakale",
+        "slug": "akcakale",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/akcakale"
+      },
+      {
+        "id": 837,
+        "name": "Birecik",
+        "slug": "birecik",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/birecik"
+      },
+      {
+        "id": 838,
+        "name": "Bozova",
+        "slug": "bozova",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/bozova"
+      },
+      {
+        "id": 839,
+        "name": "Ceylanpınar",
+        "slug": "ceylanpinar",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/ceylanpinar"
+      },
+      {
+        "id": 840,
+        "name": "Eyyübiye",
+        "slug": "eyyubiye",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/eyyubiye"
+      },
+      {
+        "id": 841,
+        "name": "Halfeti",
+        "slug": "halfeti",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/halfeti"
+      },
+      {
+        "id": 842,
+        "name": "Haliliye",
+        "slug": "haliliye",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/haliliye"
+      },
+      {
+        "id": 843,
+        "name": "Harran",
+        "slug": "harran",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/harran"
+      },
+      {
+        "id": 844,
+        "name": "Hilvan",
+        "slug": "hilvan",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/hilvan"
+      },
+      {
+        "id": 845,
+        "name": "Karaköprü",
+        "slug": "karakopru",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/karakopru"
+      },
+      {
+        "id": 846,
+        "name": "Siverek",
+        "slug": "siverek",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/siverek"
+      },
+      {
+        "id": 847,
+        "name": "Suruç",
+        "slug": "suruc",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/suruc"
+      },
+      {
+        "id": 848,
+        "name": "Viranşehir",
+        "slug": "viransehir",
+        "guideUrl": "https://www.memleketimdijital.com/sanliurfa/viransehir"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "plate": "64",
+    "name": "Uşak",
+    "slug": "usak",
+    "region": "Ege",
+    "phoneCode": "276",
+    "coordinates": {
+      "lat": 38.6823,
+      "lng": 29.4082
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/usak",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Uşak",
+    "districts": [
+      {
+        "id": 849,
+        "name": "Banaz",
+        "slug": "banaz",
+        "guideUrl": "https://www.memleketimdijital.com/usak/banaz"
+      },
+      {
+        "id": 850,
+        "name": "Eşme",
+        "slug": "esme",
+        "guideUrl": "https://www.memleketimdijital.com/usak/esme"
+      },
+      {
+        "id": 851,
+        "name": "Karahallı",
+        "slug": "karahalli",
+        "guideUrl": "https://www.memleketimdijital.com/usak/karahalli"
+      },
+      {
+        "id": 852,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/usak/merkez"
+      },
+      {
+        "id": 853,
+        "name": "Sivaslı",
+        "slug": "sivasli",
+        "guideUrl": "https://www.memleketimdijital.com/usak/sivasli"
+      },
+      {
+        "id": 854,
+        "name": "Ulubey",
+        "slug": "ulubey",
+        "guideUrl": "https://www.memleketimdijital.com/usak/ulubey"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "plate": "65",
+    "name": "Van",
+    "slug": "van",
+    "region": "Doğu Anadolu",
+    "phoneCode": "432",
+    "coordinates": {
+      "lat": 38.4891,
+      "lng": 43.4089
+    },
+    "districtCount": 13,
+    "guideUrl": "https://www.memleketimdijital.com/van",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Van",
+    "districts": [
+      {
+        "id": 855,
+        "name": "Bahçesaray",
+        "slug": "bahcesaray",
+        "guideUrl": "https://www.memleketimdijital.com/van/bahcesaray"
+      },
+      {
+        "id": 856,
+        "name": "Başkale",
+        "slug": "baskale",
+        "guideUrl": "https://www.memleketimdijital.com/van/baskale"
+      },
+      {
+        "id": 857,
+        "name": "Çaldıran",
+        "slug": "caldiran",
+        "guideUrl": "https://www.memleketimdijital.com/van/caldiran"
+      },
+      {
+        "id": 858,
+        "name": "Çatak",
+        "slug": "catak",
+        "guideUrl": "https://www.memleketimdijital.com/van/catak"
+      },
+      {
+        "id": 859,
+        "name": "Edremit",
+        "slug": "edremit",
+        "guideUrl": "https://www.memleketimdijital.com/van/edremit"
+      },
+      {
+        "id": 860,
+        "name": "Erciş",
+        "slug": "ercis",
+        "guideUrl": "https://www.memleketimdijital.com/van/ercis"
+      },
+      {
+        "id": 861,
+        "name": "Gevaş",
+        "slug": "gevas",
+        "guideUrl": "https://www.memleketimdijital.com/van/gevas"
+      },
+      {
+        "id": 862,
+        "name": "Gürpınar",
+        "slug": "gurpinar",
+        "guideUrl": "https://www.memleketimdijital.com/van/gurpinar"
+      },
+      {
+        "id": 863,
+        "name": "İpekyolu",
+        "slug": "ipekyolu",
+        "guideUrl": "https://www.memleketimdijital.com/van/ipekyolu"
+      },
+      {
+        "id": 864,
+        "name": "Muradiye",
+        "slug": "muradiye",
+        "guideUrl": "https://www.memleketimdijital.com/van/muradiye"
+      },
+      {
+        "id": 865,
+        "name": "Özalp",
+        "slug": "ozalp",
+        "guideUrl": "https://www.memleketimdijital.com/van/ozalp"
+      },
+      {
+        "id": 866,
+        "name": "Saray",
+        "slug": "saray",
+        "guideUrl": "https://www.memleketimdijital.com/van/saray"
+      },
+      {
+        "id": 867,
+        "name": "Tuşba",
+        "slug": "tusba",
+        "guideUrl": "https://www.memleketimdijital.com/van/tusba"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "plate": "66",
+    "name": "Yozgat",
+    "slug": "yozgat",
+    "region": "İç Anadolu",
+    "phoneCode": "354",
+    "coordinates": {
+      "lat": 39.8181,
+      "lng": 34.8147
+    },
+    "districtCount": 14,
+    "guideUrl": "https://www.memleketimdijital.com/yozgat",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Yozgat",
+    "districts": [
+      {
+        "id": 868,
+        "name": "Akdağmadeni",
+        "slug": "akdagmadeni",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/akdagmadeni"
+      },
+      {
+        "id": 869,
+        "name": "Aydıncık",
+        "slug": "aydincik",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/aydincik"
+      },
+      {
+        "id": 870,
+        "name": "Boğazlıyan",
+        "slug": "bogazliyan",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/bogazliyan"
+      },
+      {
+        "id": 871,
+        "name": "Çandır",
+        "slug": "candir",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/candir"
+      },
+      {
+        "id": 872,
+        "name": "Çayıralan",
+        "slug": "cayiralan",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/cayiralan"
+      },
+      {
+        "id": 873,
+        "name": "Çekerek",
+        "slug": "cekerek",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/cekerek"
+      },
+      {
+        "id": 874,
+        "name": "Kadışehri",
+        "slug": "kadisehri",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/kadisehri"
+      },
+      {
+        "id": 875,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/merkez"
+      },
+      {
+        "id": 876,
+        "name": "Saraykent",
+        "slug": "saraykent",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/saraykent"
+      },
+      {
+        "id": 877,
+        "name": "Sarıkaya",
+        "slug": "sarikaya",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/sarikaya"
+      },
+      {
+        "id": 878,
+        "name": "Sorgun",
+        "slug": "sorgun",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/sorgun"
+      },
+      {
+        "id": 879,
+        "name": "Şefaatli",
+        "slug": "sefaatli",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/sefaatli"
+      },
+      {
+        "id": 880,
+        "name": "Yenifakılı",
+        "slug": "yenifakili",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/yenifakili"
+      },
+      {
+        "id": 881,
+        "name": "Yerköy",
+        "slug": "yerkoy",
+        "guideUrl": "https://www.memleketimdijital.com/yozgat/yerkoy"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "plate": "67",
+    "name": "Zonguldak",
+    "slug": "zonguldak",
+    "region": "Karadeniz",
+    "phoneCode": "372",
+    "coordinates": {
+      "lat": 41.4564,
+      "lng": 31.7987
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/zonguldak",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Zonguldak",
+    "districts": [
+      {
+        "id": 882,
+        "name": "Alaplı",
+        "slug": "alapli",
+        "guideUrl": "https://www.memleketimdijital.com/zonguldak/alapli"
+      },
+      {
+        "id": 883,
+        "name": "Çaycuma",
+        "slug": "caycuma",
+        "guideUrl": "https://www.memleketimdijital.com/zonguldak/caycuma"
+      },
+      {
+        "id": 884,
+        "name": "Devrek",
+        "slug": "devrek",
+        "guideUrl": "https://www.memleketimdijital.com/zonguldak/devrek"
+      },
+      {
+        "id": 885,
+        "name": "Ereğli",
+        "slug": "eregli",
+        "guideUrl": "https://www.memleketimdijital.com/zonguldak/eregli"
+      },
+      {
+        "id": 886,
+        "name": "Gökçebey",
+        "slug": "gokcebey",
+        "guideUrl": "https://www.memleketimdijital.com/zonguldak/gokcebey"
+      },
+      {
+        "id": 887,
+        "name": "Kilimli",
+        "slug": "kilimli",
+        "guideUrl": "https://www.memleketimdijital.com/zonguldak/kilimli"
+      },
+      {
+        "id": 888,
+        "name": "Kozlu",
+        "slug": "kozlu",
+        "guideUrl": "https://www.memleketimdijital.com/zonguldak/kozlu"
+      },
+      {
+        "id": 889,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/zonguldak/merkez"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "plate": "68",
+    "name": "Aksaray",
+    "slug": "aksaray",
+    "region": "İç Anadolu",
+    "phoneCode": "382",
+    "coordinates": {
+      "lat": 38.3687,
+      "lng": 34.037
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/aksaray",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Aksaray",
+    "districts": [
+      {
+        "id": 890,
+        "name": "Ağaçören",
+        "slug": "agacoren",
+        "guideUrl": "https://www.memleketimdijital.com/aksaray/agacoren"
+      },
+      {
+        "id": 891,
+        "name": "Eskil",
+        "slug": "eskil",
+        "guideUrl": "https://www.memleketimdijital.com/aksaray/eskil"
+      },
+      {
+        "id": 892,
+        "name": "Gülağaç",
+        "slug": "gulagac",
+        "guideUrl": "https://www.memleketimdijital.com/aksaray/gulagac"
+      },
+      {
+        "id": 893,
+        "name": "Güzelyurt",
+        "slug": "guzelyurt",
+        "guideUrl": "https://www.memleketimdijital.com/aksaray/guzelyurt"
+      },
+      {
+        "id": 894,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/aksaray/merkez"
+      },
+      {
+        "id": 895,
+        "name": "Ortaköy",
+        "slug": "ortakoy",
+        "guideUrl": "https://www.memleketimdijital.com/aksaray/ortakoy"
+      },
+      {
+        "id": 896,
+        "name": "Sarıyahşi",
+        "slug": "sariyahsi",
+        "guideUrl": "https://www.memleketimdijital.com/aksaray/sariyahsi"
+      },
+      {
+        "id": 897,
+        "name": "Sultanhanı",
+        "slug": "sultanhani",
+        "guideUrl": "https://www.memleketimdijital.com/aksaray/sultanhani"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "plate": "69",
+    "name": "Bayburt",
+    "slug": "bayburt",
+    "region": "Karadeniz",
+    "phoneCode": "458",
+    "coordinates": {
+      "lat": 40.2552,
+      "lng": 40.2249
+    },
+    "districtCount": 3,
+    "guideUrl": "https://www.memleketimdijital.com/bayburt",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Bayburt",
+    "districts": [
+      {
+        "id": 898,
+        "name": "Aydıntepe",
+        "slug": "aydintepe",
+        "guideUrl": "https://www.memleketimdijital.com/bayburt/aydintepe"
+      },
+      {
+        "id": 899,
+        "name": "Demirözü",
+        "slug": "demirozu",
+        "guideUrl": "https://www.memleketimdijital.com/bayburt/demirozu"
+      },
+      {
+        "id": 900,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/bayburt/merkez"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "plate": "70",
+    "name": "Karaman",
+    "slug": "karaman",
+    "region": "İç Anadolu",
+    "phoneCode": "338",
+    "coordinates": {
+      "lat": 37.1759,
+      "lng": 33.2287
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/karaman",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Karaman",
+    "districts": [
+      {
+        "id": 901,
+        "name": "Ayrancı",
+        "slug": "ayranci",
+        "guideUrl": "https://www.memleketimdijital.com/karaman/ayranci"
+      },
+      {
+        "id": 902,
+        "name": "Başyayla",
+        "slug": "basyayla",
+        "guideUrl": "https://www.memleketimdijital.com/karaman/basyayla"
+      },
+      {
+        "id": 903,
+        "name": "Ermenek",
+        "slug": "ermenek",
+        "guideUrl": "https://www.memleketimdijital.com/karaman/ermenek"
+      },
+      {
+        "id": 904,
+        "name": "Kazımkarabekir",
+        "slug": "kazimkarabekir",
+        "guideUrl": "https://www.memleketimdijital.com/karaman/kazimkarabekir"
+      },
+      {
+        "id": 905,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/karaman/merkez"
+      },
+      {
+        "id": 906,
+        "name": "Sarıveliler",
+        "slug": "sariveliler",
+        "guideUrl": "https://www.memleketimdijital.com/karaman/sariveliler"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "plate": "71",
+    "name": "Kırıkkale",
+    "slug": "kirikkale",
+    "region": "İç Anadolu",
+    "phoneCode": "318",
+    "coordinates": {
+      "lat": 39.8468,
+      "lng": 33.5153
+    },
+    "districtCount": 9,
+    "guideUrl": "https://www.memleketimdijital.com/kirikkale",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kırıkkale",
+    "districts": [
+      {
+        "id": 907,
+        "name": "Bahşılı",
+        "slug": "bahsili",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/bahsili"
+      },
+      {
+        "id": 908,
+        "name": "Balışeyh",
+        "slug": "baliseyh",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/baliseyh"
+      },
+      {
+        "id": 909,
+        "name": "Çelebi",
+        "slug": "celebi",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/celebi"
+      },
+      {
+        "id": 910,
+        "name": "Delice",
+        "slug": "delice",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/delice"
+      },
+      {
+        "id": 911,
+        "name": "Karakeçili",
+        "slug": "karakecili",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/karakecili"
+      },
+      {
+        "id": 912,
+        "name": "Keskin",
+        "slug": "keskin",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/keskin"
+      },
+      {
+        "id": 913,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/merkez"
+      },
+      {
+        "id": 914,
+        "name": "Sulakyurt",
+        "slug": "sulakyurt",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/sulakyurt"
+      },
+      {
+        "id": 915,
+        "name": "Yahşihan",
+        "slug": "yahsihan",
+        "guideUrl": "https://www.memleketimdijital.com/kirikkale/yahsihan"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "plate": "72",
+    "name": "Batman",
+    "slug": "batman",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "488",
+    "coordinates": {
+      "lat": 37.8812,
+      "lng": 41.1351
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/batman",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Batman",
+    "districts": [
+      {
+        "id": 916,
+        "name": "Beşiri",
+        "slug": "besiri",
+        "guideUrl": "https://www.memleketimdijital.com/batman/besiri"
+      },
+      {
+        "id": 917,
+        "name": "Gercüş",
+        "slug": "gercus",
+        "guideUrl": "https://www.memleketimdijital.com/batman/gercus"
+      },
+      {
+        "id": 918,
+        "name": "Hasankeyf",
+        "slug": "hasankeyf",
+        "guideUrl": "https://www.memleketimdijital.com/batman/hasankeyf"
+      },
+      {
+        "id": 919,
+        "name": "Kozluk",
+        "slug": "kozluk",
+        "guideUrl": "https://www.memleketimdijital.com/batman/kozluk"
+      },
+      {
+        "id": 920,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/batman/merkez"
+      },
+      {
+        "id": 921,
+        "name": "Sason",
+        "slug": "sason",
+        "guideUrl": "https://www.memleketimdijital.com/batman/sason"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "plate": "73",
+    "name": "Şırnak",
+    "slug": "sirnak",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "486",
+    "coordinates": {
+      "lat": 37.5164,
+      "lng": 42.4611
+    },
+    "districtCount": 7,
+    "guideUrl": "https://www.memleketimdijital.com/sirnak",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Şırnak",
+    "districts": [
+      {
+        "id": 922,
+        "name": "Beytüşşebap",
+        "slug": "beytussebap",
+        "guideUrl": "https://www.memleketimdijital.com/sirnak/beytussebap"
+      },
+      {
+        "id": 923,
+        "name": "Cizre",
+        "slug": "cizre",
+        "guideUrl": "https://www.memleketimdijital.com/sirnak/cizre"
+      },
+      {
+        "id": 924,
+        "name": "Güçlükonak",
+        "slug": "guclukonak",
+        "guideUrl": "https://www.memleketimdijital.com/sirnak/guclukonak"
+      },
+      {
+        "id": 925,
+        "name": "İdil",
+        "slug": "idil",
+        "guideUrl": "https://www.memleketimdijital.com/sirnak/idil"
+      },
+      {
+        "id": 926,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/sirnak/merkez"
+      },
+      {
+        "id": 927,
+        "name": "Silopi",
+        "slug": "silopi",
+        "guideUrl": "https://www.memleketimdijital.com/sirnak/silopi"
+      },
+      {
+        "id": 928,
+        "name": "Uludere",
+        "slug": "uludere",
+        "guideUrl": "https://www.memleketimdijital.com/sirnak/uludere"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "plate": "74",
+    "name": "Bartın",
+    "slug": "bartin",
+    "region": "Karadeniz",
+    "phoneCode": "378",
+    "coordinates": {
+      "lat": 41.6344,
+      "lng": 32.3375
+    },
+    "districtCount": 4,
+    "guideUrl": "https://www.memleketimdijital.com/bartin",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Bartın",
+    "districts": [
+      {
+        "id": 929,
+        "name": "Amasra",
+        "slug": "amasra",
+        "guideUrl": "https://www.memleketimdijital.com/bartin/amasra"
+      },
+      {
+        "id": 930,
+        "name": "Kurucaşile",
+        "slug": "kurucasile",
+        "guideUrl": "https://www.memleketimdijital.com/bartin/kurucasile"
+      },
+      {
+        "id": 931,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/bartin/merkez"
+      },
+      {
+        "id": 932,
+        "name": "Ulus",
+        "slug": "ulus",
+        "guideUrl": "https://www.memleketimdijital.com/bartin/ulus"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "plate": "75",
+    "name": "Ardahan",
+    "slug": "ardahan",
+    "region": "Doğu Anadolu",
+    "phoneCode": "478",
+    "coordinates": {
+      "lat": 41.1105,
+      "lng": 42.7022
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/ardahan",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Ardahan",
+    "districts": [
+      {
+        "id": 933,
+        "name": "Çıldır",
+        "slug": "cildir",
+        "guideUrl": "https://www.memleketimdijital.com/ardahan/cildir"
+      },
+      {
+        "id": 934,
+        "name": "Damal",
+        "slug": "damal",
+        "guideUrl": "https://www.memleketimdijital.com/ardahan/damal"
+      },
+      {
+        "id": 935,
+        "name": "Göle",
+        "slug": "gole",
+        "guideUrl": "https://www.memleketimdijital.com/ardahan/gole"
+      },
+      {
+        "id": 936,
+        "name": "Hanak",
+        "slug": "hanak",
+        "guideUrl": "https://www.memleketimdijital.com/ardahan/hanak"
+      },
+      {
+        "id": 937,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/ardahan/merkez"
+      },
+      {
+        "id": 938,
+        "name": "Posof",
+        "slug": "posof",
+        "guideUrl": "https://www.memleketimdijital.com/ardahan/posof"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "plate": "76",
+    "name": "Iğdır",
+    "slug": "igdir",
+    "region": "Doğu Anadolu",
+    "phoneCode": "476",
+    "coordinates": {
+      "lat": 39.9167,
+      "lng": 44.0333
+    },
+    "districtCount": 4,
+    "guideUrl": "https://www.memleketimdijital.com/igdir",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Iğdır",
+    "districts": [
+      {
+        "id": 939,
+        "name": "Aralık",
+        "slug": "aralik",
+        "guideUrl": "https://www.memleketimdijital.com/igdir/aralik"
+      },
+      {
+        "id": 940,
+        "name": "Karakoyunlu",
+        "slug": "karakoyunlu",
+        "guideUrl": "https://www.memleketimdijital.com/igdir/karakoyunlu"
+      },
+      {
+        "id": 941,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/igdir/merkez"
+      },
+      {
+        "id": 942,
+        "name": "Tuzluca",
+        "slug": "tuzluca",
+        "guideUrl": "https://www.memleketimdijital.com/igdir/tuzluca"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "plate": "77",
+    "name": "Yalova",
+    "slug": "yalova",
+    "region": "Marmara",
+    "phoneCode": "226",
+    "coordinates": {
+      "lat": 40.65,
+      "lng": 29.2667
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/yalova",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Yalova",
+    "districts": [
+      {
+        "id": 943,
+        "name": "Altınova",
+        "slug": "altinova",
+        "guideUrl": "https://www.memleketimdijital.com/yalova/altinova"
+      },
+      {
+        "id": 944,
+        "name": "Armutlu",
+        "slug": "armutlu",
+        "guideUrl": "https://www.memleketimdijital.com/yalova/armutlu"
+      },
+      {
+        "id": 945,
+        "name": "Çınarcık",
+        "slug": "cinarcik",
+        "guideUrl": "https://www.memleketimdijital.com/yalova/cinarcik"
+      },
+      {
+        "id": 946,
+        "name": "Çiftlikköy",
+        "slug": "ciftlikkoy",
+        "guideUrl": "https://www.memleketimdijital.com/yalova/ciftlikkoy"
+      },
+      {
+        "id": 947,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/yalova/merkez"
+      },
+      {
+        "id": 948,
+        "name": "Termal",
+        "slug": "termal",
+        "guideUrl": "https://www.memleketimdijital.com/yalova/termal"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "plate": "78",
+    "name": "Karabük",
+    "slug": "karabuk",
+    "region": "Karadeniz",
+    "phoneCode": "370",
+    "coordinates": {
+      "lat": 41.2061,
+      "lng": 32.6204
+    },
+    "districtCount": 6,
+    "guideUrl": "https://www.memleketimdijital.com/karabuk",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Karabük",
+    "districts": [
+      {
+        "id": 949,
+        "name": "Eflani",
+        "slug": "eflani",
+        "guideUrl": "https://www.memleketimdijital.com/karabuk/eflani"
+      },
+      {
+        "id": 950,
+        "name": "Eskipazar",
+        "slug": "eskipazar",
+        "guideUrl": "https://www.memleketimdijital.com/karabuk/eskipazar"
+      },
+      {
+        "id": 951,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/karabuk/merkez"
+      },
+      {
+        "id": 952,
+        "name": "Ovacık",
+        "slug": "ovacik",
+        "guideUrl": "https://www.memleketimdijital.com/karabuk/ovacik"
+      },
+      {
+        "id": 953,
+        "name": "Safranbolu",
+        "slug": "safranbolu",
+        "guideUrl": "https://www.memleketimdijital.com/karabuk/safranbolu"
+      },
+      {
+        "id": 954,
+        "name": "Yenice",
+        "slug": "yenice",
+        "guideUrl": "https://www.memleketimdijital.com/karabuk/yenice"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "plate": "79",
+    "name": "Kilis",
+    "slug": "kilis",
+    "region": "Güneydoğu Anadolu",
+    "phoneCode": "348",
+    "coordinates": {
+      "lat": 36.7184,
+      "lng": 37.1212
+    },
+    "districtCount": 4,
+    "guideUrl": "https://www.memleketimdijital.com/kilis",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Kilis",
+    "districts": [
+      {
+        "id": 955,
+        "name": "Elbeyli",
+        "slug": "elbeyli",
+        "guideUrl": "https://www.memleketimdijital.com/kilis/elbeyli"
+      },
+      {
+        "id": 956,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/kilis/merkez"
+      },
+      {
+        "id": 957,
+        "name": "Musabeyli",
+        "slug": "musabeyli",
+        "guideUrl": "https://www.memleketimdijital.com/kilis/musabeyli"
+      },
+      {
+        "id": 958,
+        "name": "Polateli",
+        "slug": "polateli",
+        "guideUrl": "https://www.memleketimdijital.com/kilis/polateli"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "plate": "80",
+    "name": "Osmaniye",
+    "slug": "osmaniye",
+    "region": "Akdeniz",
+    "phoneCode": "328",
+    "coordinates": {
+      "lat": 37.0742,
+      "lng": 36.2478
+    },
+    "districtCount": 7,
+    "guideUrl": "https://www.memleketimdijital.com/osmaniye",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Osmaniye",
+    "districts": [
+      {
+        "id": 959,
+        "name": "Bahçe",
+        "slug": "bahce",
+        "guideUrl": "https://www.memleketimdijital.com/osmaniye/bahce"
+      },
+      {
+        "id": 960,
+        "name": "Düziçi",
+        "slug": "duzici",
+        "guideUrl": "https://www.memleketimdijital.com/osmaniye/duzici"
+      },
+      {
+        "id": 961,
+        "name": "Hasanbeyli",
+        "slug": "hasanbeyli",
+        "guideUrl": "https://www.memleketimdijital.com/osmaniye/hasanbeyli"
+      },
+      {
+        "id": 962,
+        "name": "Kadirli",
+        "slug": "kadirli",
+        "guideUrl": "https://www.memleketimdijital.com/osmaniye/kadirli"
+      },
+      {
+        "id": 963,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/osmaniye/merkez"
+      },
+      {
+        "id": 964,
+        "name": "Sumbas",
+        "slug": "sumbas",
+        "guideUrl": "https://www.memleketimdijital.com/osmaniye/sumbas"
+      },
+      {
+        "id": 965,
+        "name": "Toprakkale",
+        "slug": "toprakkale",
+        "guideUrl": "https://www.memleketimdijital.com/osmaniye/toprakkale"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "plate": "81",
+    "name": "Düzce",
+    "slug": "duzce",
+    "region": "Karadeniz",
+    "phoneCode": "380",
+    "coordinates": {
+      "lat": 40.8438,
+      "lng": 31.1565
+    },
+    "districtCount": 8,
+    "guideUrl": "https://www.memleketimdijital.com/duzce",
+    "exploreUrl": "https://www.memleketimdijital.com/kesfet?q=Düzce",
+    "districts": [
+      {
+        "id": 966,
+        "name": "Akçakoca",
+        "slug": "akcakoca",
+        "guideUrl": "https://www.memleketimdijital.com/duzce/akcakoca"
+      },
+      {
+        "id": 967,
+        "name": "Cumayeri",
+        "slug": "cumayeri",
+        "guideUrl": "https://www.memleketimdijital.com/duzce/cumayeri"
+      },
+      {
+        "id": 968,
+        "name": "Çilimli",
+        "slug": "cilimli",
+        "guideUrl": "https://www.memleketimdijital.com/duzce/cilimli"
+      },
+      {
+        "id": 969,
+        "name": "Gölyaka",
+        "slug": "golyaka",
+        "guideUrl": "https://www.memleketimdijital.com/duzce/golyaka"
+      },
+      {
+        "id": 970,
+        "name": "Gümüşova",
+        "slug": "gumusova",
+        "guideUrl": "https://www.memleketimdijital.com/duzce/gumusova"
+      },
+      {
+        "id": 971,
+        "name": "Kaynaşlı",
+        "slug": "kaynasli",
+        "guideUrl": "https://www.memleketimdijital.com/duzce/kaynasli"
+      },
+      {
+        "id": 972,
+        "name": "Merkez",
+        "slug": "merkez",
+        "guideUrl": "https://www.memleketimdijital.com/duzce/merkez"
+      },
+      {
+        "id": 973,
+        "name": "Yığılca",
+        "slug": "yigilca",
+        "guideUrl": "https://www.memleketimdijital.com/duzce/yigilca"
+      }
+    ]
+  }
+]
